@@ -1,9 +1,9 @@
-# Libary for reading the data in excel sheet and doing data manipulation
+# Library for reading the data in excel sheet and doing data manipulation
 import pandas as pd
-# Libary for reading and creating json files 
-# This json would be need to convert the excel chat file into triggers the robot can read
+# Library for reading and creating json files 
+# This json would be needed to convert the excel chat file into triggers the robot can read
 import json
-# Libary for reading and creating files 
+# Library for reading and creating files 
 # Needed for store json file in a specific folder path
 import os
 
@@ -47,8 +47,8 @@ for idx, row in df.iterrows():
         # Learning Point: Making sure your data is properly stored is an extremely important step
         # as the arabic text was messing up the trigger matching and no answers were being given by bot
 
-    # In the excel file, the list of triggers are seperated with a semi colon 
-    # so the below loop captures the ; and replaces it with a space
+    # In the excel file, the list of triggers are separated with a semi colon 
+    # so the below loop captures ; and replaces it with a space
     triggers = [t.strip() for t in raw_trigs.split(";") if t.strip()]
 
     # if it is not a trigger - that means there is no semi colon 
