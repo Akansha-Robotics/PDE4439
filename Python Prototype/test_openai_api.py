@@ -1,6 +1,6 @@
 # Library for requesting HTTP calls 
 import requests
-# The below code is just loading the chat interface but there is a another code that has the logic and brain of system 
+# The below code is just loading the chat interface but there is another code that has the logic and brain of system 
 # so we can create HTTP calls, we are communicating with the code that has the logic to provide response 
 
 
@@ -15,7 +15,7 @@ while True:
         break
     # if value exist in q 
 
-    # Converts the user input from q variable in JSON as as the triggers are in that format 
+    # Converts the user input from q variable in JSON as the triggers are in that format 
     # POST request is sent to chat bot API for processing 
     res = requests.post("http://127.0.0.1:8000/analyze", json={"user_input": q})
     
