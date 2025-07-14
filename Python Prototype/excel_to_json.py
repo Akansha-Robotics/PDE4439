@@ -71,6 +71,8 @@ for idx, row in df.iterrows():
     kb.append(entry)
 
 # Converts it to json format
+# "w" means that the file is in write mode to add data
+# encoding="utf-8" means that the encoding method is set to converted all text 
 with open(JSON_OUT, "w", encoding="utf-8") as f:
     # indent = 2 ensures the nesting is properly done and readable
     # ensure_ascii=False - keeps the values intact and doesn't overwite it 
