@@ -34,3 +34,40 @@ for entry in kb:
     intent_id = entry["id"]
     # Extracts the data from chat file and stores answers of each row in variable 
     answer    = entry["answer"]
+    # Runs through the data in triggers 
+    for trig in entry["triggers"]:
+        # Displays the trigger it is going to start working on 
+        print(f"Embedding trigger '{trig}' (ID {intent_id})…")
+        # Learning Point: I was getting stuck as the code kept crashing and not finishing the embedding 
+        # Once I added this log display, I was able to see that Arabic text was getting parsed also which caused the issue 
+        
+        # Calls the Open AI API to start embedding and converting triggers to numerical vectors 
+        resp = client.embeddings.create(
+            # Sets the embedding model to use from Open AI
+            model="text-embedding-ada-002",
+            # Sets the triggers into the field of input for Open AI API to be applied 
+            # This is a required parameter for using the embedding model
+            input=trig
+        )
+        # Stored the embedding data into variable 
+        emb = resp.data[0].embedding
+        # Adding all the data into dictionary so it can be created into json  
+        out.append({
+            # Storing the variables as per chat file for ID Trigger and Answer  
+            "id":        intent_id,
+            "trigger":   trig,
+            "answer":    answer,
+            # Adding the embedding created from Open AI 
+            "embedding": emb
+        })
+
+# Creating the json file with embedding 
+# "w" means that the file is in write mode to add data
+# encoding="utf-8" means that the encoding method is set to converted all text 
+with open(EMB_JSON_OUT, "w", encoding="utf-8") as f:
+    # indent = 2 ensures the nesting is properly done and readable
+    # ensure_ascii=False - keeps the values intact and doesn't overwite it 
+    json.dump(out, f, indent=2, ensure_ascii=False)
+
+# Display message on terminal of how many embeddings generated
+print(f"✅ Built {len(out)} trigger embeddings → {EMB_JSON_OUT}")
