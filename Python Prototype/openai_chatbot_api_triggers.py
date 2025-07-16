@@ -19,3 +19,12 @@ EMB_PATH = "C:/Users/bhati/OneDrive/Desktop/Research/trigger_embeddings.json"
 
 # Setting Open AI API key so it can be used to create embedding
 client = OpenAI(api_key=OPENAI_API_KEY)
+
+# Loading the json file with the embedding 
+with open(EMB_PATH, "r", encoding="utf-8") as f:
+    # Stores the data in below variable  
+    trigger_kb = json.load(f)
+# Runs through the json file loaded 
+for item in trigger_kb:
+    # Extract the values from embedding and stores them in new variable to do the computation 
+    item["vec"] = np.array(item["embedding"], dtype=float)
