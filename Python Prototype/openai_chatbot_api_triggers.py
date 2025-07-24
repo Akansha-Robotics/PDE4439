@@ -28,3 +28,15 @@ with open(EMB_PATH, "r", encoding="utf-8") as f:
 for item in trigger_kb:
     # Extract the values from embedding and stores them in new variable to do the computation 
     item["vec"] = np.array(item["embedding"], dtype=float)
+
+# Below function allows to find whether triggers have the similar context despite not having similar keywords. 
+# For example, not feeling good and unwell would have a high cosine similarity resulting in their meaning to be similar  
+def cosine(a, b):
+    # Calculating the cosine similarity between two variables
+        # .dot would multiple the vectors providing positive or negative value  
+        # Positive is similar semantic direction while negative is vice versa
+
+        # linalg.norm finds the length of the vector using linear algebra
+        # By dividing dot product with their norms, we are able to normalize the values to become ranging from -1 to 1 
+    return float(np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b)))
+    # Value of cosine similarity is return as a float data type 
