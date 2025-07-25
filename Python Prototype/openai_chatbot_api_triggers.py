@@ -40,3 +40,33 @@ def cosine(a, b):
         # By dividing dot product with their norms, we are able to normalize the values to become ranging from -1 to 1 
     return float(np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b)))
     # Value of cosine similarity is return as a float data type 
+
+# Function for detecting the sentiment of user's input
+def detect_sentiment(text: str) -> str:
+    """Returns 'positive', 'negative', or 'neutral'."""
+    # Uses Open AI API of ChatCompletion to detect the sentiment
+    resp = client.chat.completions.create(
+        # Using the basic Open AI model as it is a simple task
+        model="gpt-3.5-turbo",
+        # Sets the roles according to parameters of using API and model 
+        #  
+        messages=[
+            {
+            # System message will tell ChatGPT what it should do 
+              "role":    "system",
+              "content": "You are a sentiment analyzer.  "
+                         "Classify the user message strictly as Positive, Negative, or Neutral."
+            },
+            {
+            # Indicating below is user's input 
+              "role":    "user",
+            # Setting placeholder for receiving input and indicating API to reply with sentiment 
+              "content": f"Message: “{text}”\nSentiment:"
+            }
+        ]
+    )
+    # stores the answer in resp variable - Removes white space and converts to lower case
+    return resp.choices[0].message.content.strip().lower()
+
+# Initializes the Fast API
+app = FastAPI()
