@@ -49,7 +49,6 @@ def detect_sentiment(text: str) -> str:
         # Using the basic Open AI model as it is a simple task
         model="gpt-3.5-turbo",
         # Sets the roles according to parameters of using API and model 
-        #  
         messages=[
             {
             # System message will tell ChatGPT what it should do 
