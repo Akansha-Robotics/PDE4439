@@ -167,3 +167,101 @@ async def analyze(request: Request):
 
     # Converts the user input into to lower case to standardize the values 
     ui_l = user_input.lower()
+
+    # 3b) exact trigger match
+    # Runs through the each row in knowledge base 
+    for item in trigger_kb:
+        # Runs through each word in the user's input 
+        for trig in item["triggers"]:
+            # If the trigger word is found in the user's input 
+            # For example, "company" trigger word would be found in user's input of "tell me about your company"
+            if trig in ui_l:
+                # then provide the corresponding response for that trigger 
+                return {
+                    "input":           user_input,
+                    "matched_trigger": trig,
+                    "id":              item["id"],
+                    "answer":          item["answer"],
+                    # confidence score set to 1 to make sure the answer is spoken by robot 
+                    "confidence":      1.0,
+                    "sentiment":       sent
+                }
+
+
+    # 3c) semantic match via embeddings
+    # If 3b trigger matching was not successful - Then it would move to matching with embedding 
+    # Initializes Open AI API call 
+    emb_resp = client.embeddings.create(
+        # Sets the model to be used 
+        model="text-embedding-ada-002",
+        # Stores the user input 
+        input=user_input
+    )
+    # Convert values using NumPy to allow calculation of cosine similarity to be done 
+    user_vec = np.array(emb_resp.data[0].embedding, dtype=np.float32)
+
+    # Sets the best score to lowest so that when a better score comes - it can be saved and compared with score received 
+    best_score, best_item = -1.0, None
+    # Run through all entries in knowledge base 
+    for item in trigger_kb:
+        # Applies the function for cosine similarity to get the score  
+        score = cosine(user_vec, item["vec"])
+        # If score received is better than best score saved 
+        if score > best_score:
+            # Stores the score and correspondingly values from best item 
+            best_score, best_item = score, item
+
+    # 4) Decide: KB answer vs GPT fallback
+    # If the best score is greater than the threshold 
+    if best_score >= SIMILARITY_THRESHOLD:
+        # Then knowledge base trigger is choose - and the answer for that is spoken by robot 
+        return {
+            "input":           user_input,
+            "matched_trigger": best_item["triggers"][0],
+            "id":              best_item["id"],
+            "answer":          best_item["answer"],
+            # Rounds to 3 decimals just to keep the clean value of score received 
+            "confidence":      round(best_score, 3),
+            "sentiment":       sent
+        }
+
+    # GPT‐fallback for anything else
+    # If the best score was lower than threshold - Then request Open AI API for answer 
+    gpt_resp = client.chat.completions.create(
+        # Selects the model to use 
+        model="gpt-3.5-turbo",
+        # Sets the message to provide what the system should do 
+        messages=[
+            {"role":"system",
+             "content":"You are a knowledgeable assistant. Answer the user’s question directly."
+             "If the user’s message contains a proper name or place, assume they spelled it correctly. "
+            # Learning point: When I was testing, the speech converted to text by robot would sometimes have spelling mistakes due to speech recognition limitations  
+            # and that would be called out by GPT saying I made a typo despite not typing anything 
+            "Do NOT mention typos or spelling mistakes. "
+            "Answer the user’s question in 100 words or less, clearly and concisely."
+            # Had to character limit as sometimes the answers were too long 
+            "Respond with a maximum of 200 characters"
+             },
+             # Send the user input to Open AI
+            {"role":"user","content": user_input}
+        ]
+    )
+    # Provides the response to be spoken by robot
+    return {
+        "input":      user_input,
+        "answer":     gpt_resp.choices[0].message.content.strip(),
+        "confidence": round(best_score, 3),
+        "sentiment":  sent
+    }
+
+# ─── 5) RUN SERVER ────────────────────────────────────────────────────────────
+# Runs the FastAPI Server when this python script is ran 
+if __name__ == "__main__":
+    uvicorn.run(
+        # Python code to set the format of how the terminal should be - Allowing for User input and displaying response 
+        "test_openai_api_22_07:app",
+        # Sets the server configurations  
+        host="127.0.0.1",
+        port=8000,
+        reload=True
+    )
