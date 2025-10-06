@@ -1,0 +1,4080 @@
+[
+  {
+    "id": "1",
+    "triggers": [
+      "Question"
+    ],
+    "answer": "Answer"
+  },
+  {
+    "id": "2",
+    "triggers": [
+      "Aquarium",
+      "Underwater Zoo"
+    ],
+    "answer": "Dubai Aquarium and Underwater Zoo showcases more than 300 species of marine animals, including sharks and rays. It was awarded with the Certificate of Excellence and won the Images Most Admired Retailer of the Year in 2012."
+  },
+  {
+    "id": "3",
+    "triggers": [
+      "best gardens in Dubai",
+      "best garden in Dubai",
+      "garden",
+      "gardens"
+    ],
+    "answer": "The three most beautiful gardens in dubai are, Dubai Miracle Garden, Dubai Butterfly Garden, and Dubai Garden Glow."
+  },
+  {
+    "id": "4",
+    "triggers": [
+      "best malls Dubai",
+      "largest mall in Dubai"
+    ],
+    "answer": "Dubai Mall is the largest mall in the world by total land area, having a total retail floor area of 502000 square meters, and includes over 1200 shops. Dubai Mall, Mall of the Emirates, Dubai Festival City Mall, Wafi Mall."
+  },
+  {
+    "id": "5",
+    "triggers": [
+      "best places to visit in Dubai",
+      "best landmarks Dubai"
+    ],
+    "answer": "Burj Khalifa, Dubai Mall, Dubai Fountain, Dubai Aquarium and Underwater Zoo, Burj Al Arab, Jumeirah Mosque, Gold and Spice Souks."
+  },
+  {
+    "id": "6",
+    "triggers": [
+      "dubai frame",
+      "dubai frame"
+    ],
+    "answer": "The Dubai Frame is an architectural landmark in Zabeel Park, Dubai. It holds the record for the largest frame in the world."
+  },
+  {
+    "id": "7",
+    "triggers": [
+      "dubai metro",
+      "metro dubai",
+      "metro",
+      "train",
+      "transport"
+    ],
+    "answer": "Dubai Metro, with its Red and Green lines, is one of the most advanced and modern rail systems.With separate compartments for ladies and children and even for elderly."
+  },
+  {
+    "id": "8",
+    "triggers": [
+      "Dubai Miracle Garden"
+    ],
+    "answer": "This flower garden was launched on Valentines Day in 2013. The garden occupies over 72000 square meters, making it the worlds largest natural flower garden featuring over 50 million flowers and 250 million plants."
+  },
+  {
+    "id": "9",
+    "triggers": [
+      "Dubai Opera located",
+      "location of dubai opera"
+    ],
+    "answer": "It is located within The Opera District in Downtown Dubai."
+  },
+  {
+    "id": "10",
+    "triggers": [
+      "dubai police"
+    ],
+    "answer": "do you know i sever as Hamda, with dubai police. The Dubai Police Force is the 17 500 strong police force for the Emirate of Dubai, in the United Arab Emirates. With the use of latest modren technology use in cyber security,robotics and artificial intelligence, dubai police showing its way in moving forward with the citys rapid growth."
+  },
+  {
+    "id": "11",
+    "triggers": [
+      "dubai shopping festival"
+    ],
+    "answer": "Dubai Shopping Festival is an annual month long event put together by the Dubai Festivals and Retail Establishment, held from 15 december to 29 january."
+  },
+  {
+    "id": "12",
+    "triggers": [
+      "dubai summer",
+      "summer in dubai"
+    ],
+    "answer": "In the summer, the weather in UAE is very hot and humid, with temperatures exceeding 43 degree celsius, mainly in the months of July and August."
+  },
+  {
+    "id": "13",
+    "triggers": [
+      "dubai",
+      "doobye",
+      "dubay"
+    ],
+    "answer": "Dubai is a city and emirate in the United Arab Emirates, known for its ultramodern architecture and a lively nightlife scene. It is home to famous landmark such as burj khalifa, burj al arab and others."
+  },
+  {
+    "id": "14",
+    "triggers": [
+      "Emirati",
+      "citizen",
+      "imirati"
+    ],
+    "answer": "A local national is called an Emirati."
+  },
+  {
+    "id": "15",
+    "triggers": [
+      "famous attractions in Dubai",
+      "attractions in dubai",
+      "famous attraction in Dubai",
+      "attraction in Dubai"
+    ],
+    "answer": "Entertainment, Gardens, Night Life, Beaches, Camping."
+  },
+  {
+    "id": "16",
+    "triggers": [
+      "future of dubai",
+      "dubai future"
+    ],
+    "answer": "Dubai has set out ambitious growth plans for the next decade. Already the Middle East top destination for foreign investment, Dubai is aiming to become the world smartest city by 20 21,the most visited city by 20 25,and the global hub of the Islamic economy within the next decade."
+  },
+  {
+    "id": "17",
+    "triggers": [
+      "go at night in Dubai",
+      "night in Dubai",
+      "one night in dubai"
+    ],
+    "answer": "The Arabian Overnight Safari, Dhow Cruise Dubai Creek, Ski Dubai Mall of the Emirates."
+  },
+  {
+    "id": "18",
+    "triggers": [
+      "JBR Open Beach",
+      "Jumeirah Beach Residences",
+      "beach",
+      "bitch",
+      "beeach",
+      "Jumeirah Beach"
+    ],
+    "answer": "JBR Open Beach is opened to public and buzzing with people till late night. Lined with eateries, this urban beach offers banana boat rides, an outdoor gym and a volleyball court."
+  },
+  {
+    "id": "19",
+    "triggers": [
+      "Largest Mall",
+      "dubai mall",
+      "world record mall",
+      "biggest mall"
+    ],
+    "answer": "Dubai Mall, is the largest mall in the world by total land area, having a total retail floor area of 502 thousand square meters, and includes over 1200 shops."
+  },
+  {
+    "id": "20",
+    "triggers": [
+      "malls in dubai",
+      "malls in UAE",
+      "malls in UAE",
+      "mall in dubai"
+    ],
+    "answer": "In total, Dubai has  65 malls."
+  },
+  {
+    "id": "21",
+    "triggers": [
+      "new things in dubai",
+      "new in dubai"
+    ],
+    "answer": "some of the major new attractions in dubai include, the hatta dome park,theatre of digital art,the view at the palm and more."
+  },
+  {
+    "id": "22",
+    "triggers": [
+      "old is the Dubai Frame",
+      "Old Dubai Frame"
+    ],
+    "answer": "It opened in January 2018."
+  },
+  {
+    "id": "23",
+    "triggers": [
+      "penalty",
+      "fines in dubai",
+      "police fines",
+      "traffic fines"
+    ],
+    "answer": "fines range from different means of violations such as traffic light crossing, jaywalking violations,accident and act of harmful actions in public and more."
+  },
+  {
+    "id": "24",
+    "triggers": [
+      "police fine"
+    ],
+    "answer": "fines range from different means of violations such as traffic light crossing, jaywalking violations,accident and act of harmful actions in public and more."
+  },
+  {
+    "id": "25",
+    "triggers": [
+      "tall is the Dubai Frame",
+      "Dubai Frame height"
+    ],
+    "answer": "The Dubai Frame stands at a 150 meter height."
+  },
+  {
+    "id": "26",
+    "triggers": [
+      "Train Structure",
+      "Train",
+      "train",
+      "chain structure"
+    ],
+    "answer": "A Dubai Metro train has various types of cabins, designated for various commuters which include nol, gold card holders cabin, designated group of cabins for women, children and general cabins."
+  },
+  {
+    "id": "27",
+    "triggers": [
+      "travel in dubai",
+      "transport"
+    ],
+    "answer": "The primary forms of public transport are the Dubai Metro, taxis, buses, and water taxis. Where state of art, transportation system will help you to locate with major landmarks such as burj khalifa, dubai mall and more."
+  },
+  {
+    "id": "28",
+    "triggers": [
+      "What to do in Dubai",
+      "tell me things to do in dubai"
+    ],
+    "answer": "Looking for things to do in dubai? With the worlds tallest building, dancing fountains, mammoth amusement parks with, shopping malls, heritage museums, cutting edge galleries, there is a variety of activites to do in dubai."
+  },
+  {
+    "id": "29",
+    "triggers": [
+      "winter",
+      "dubai winter",
+      "winter in dubai"
+    ],
+    "answer": "Winter in UAE begins around the last week of October and lasts until the beginning of April. The winter season has the most pleasant weather, making it ideal for outdoor activities."
+  },
+  {
+    "id": "30",
+    "triggers": [
+      "50th Watch and Jewellery MIDDLE EAST SHOW",
+      "50th Watch and Jewellery"
+    ],
+    "answer": "Fifteeth Watch and Jewellery MIDDLE EAST SHOW showcases the latest designs and trends in watches, jewelry, gold, precious stones, and diamonds."
+  },
+  {
+    "id": "31",
+    "triggers": [
+      "Abu Dhabi International Boat Show"
+    ],
+    "answer": "Abu Dhabi International Boat Show start from 24 November, 2022 to 27 November, 2022 at Marina, Marina Hall, ADNEC, Abudhabi."
+  },
+  {
+    "id": "32",
+    "triggers": [
+      "Abu Dhabi Showdown Week UFC 281"
+    ],
+    "answer": "Abu Dhabi Showdown Week UFC 281 start from 15 October, 2022 to 22 October, 2022 at Etihad Arena, Yas Island, Yas Island, Abudhabi."
+  },
+  {
+    "id": "33",
+    "triggers": [
+      "AccessAbilities Expo"
+    ],
+    "answer": "Access Abilities Expo, is the largest event for people of determination, and rehabilitation in the Middle East, Africa, and South Asia. It is held under the patronage of His Highness Sheikh Ahmed bin Saeed Al Maktoum, Chief Executive of Emirates Airlines and Group."
+  },
+  {
+    "id": "34",
+    "triggers": [
+      "AccessAbilities Expo",
+      "Accessability",
+      "acces abilities"
+    ],
+    "answer": "The largest exhibition for people of determination in the MENASA region, AcccessAbilities is back. With the aim of continuing and deepening its vital work for this demographic, some 50 million of whom live in the Middle East. AcccessAbilities is all about bringing the latest technologies, services and ideas from around the world to Dubai, and in bringing people and organisations together."
+  },
+  {
+    "id": "35",
+    "triggers": [
+      "ACRES Middle East"
+    ],
+    "answer": "Acres Middle East, will be a dynamic platform that caters to the needs of the Real Estate sector is essential, and will be the best bet to showcase your projects and services."
+  },
+  {
+    "id": "36",
+    "triggers": [
+      "Adhesives, Sealants and Bonding Expo"
+    ],
+    "answer": "Adhesives, Sealants and Bonding Expo, is a unique exhibition, and conference dedicated to this sector in the Middle East and Africa region. This brand new trade show, will focus on the major developments, significant solutions, and innovative technologies in the adhesives, sealants, and bonding market."
+  },
+  {
+    "id": "37",
+    "triggers": [
+      "Agra Middle East 2022"
+    ],
+    "answer": "AgraME is the leading exhibition promoting sustainable, innovative agricultural practices, to ensure food security in the region."
+  },
+  {
+    "id": "38",
+    "triggers": [
+      "Agro Farm Middle East",
+      "Agro Farm"
+    ],
+    "answer": "The AgroFarm Middle East, will form the focal point of the animal farming industry in the region."
+  },
+  {
+    "id": "39",
+    "triggers": [
+      "Airport Show and Global Airport Leaders Forum",
+      "Airport Show"
+    ],
+    "answer": "Airport Show, and Global Airport Leaders Forum, will continue to feature leading innovations in airport sustainability, digitalization and urban air mobility facilitating the global industry's efforts towards sustainable, and collaborative airport infrastructure development, and operational transformations."
+  },
+  {
+    "id": "40",
+    "triggers": [
+      "Annual Radiology Meeting",
+      "A R M"
+    ],
+    "answer": "?The Annual Radiology Meeting, brings together radiologists, radiographers, manufacturers, distributors and government organisations from the GCC and beyond."
+  },
+  {
+    "id": "41",
+    "triggers": [
+      "APLF Dubai",
+      "APLF"
+    ],
+    "answer": "The worlds leading, and most International Trade Fair for the leather industry, the Asia Pacific Leather Fair, APLF will take place concurrently covering the global supply chain of the leather, tanning, and manufacturing industry."
+  },
+  {
+    "id": "42",
+    "triggers": [
+      "Arab Health Exhibition and Congress",
+      "Arab Health"
+    ],
+    "answer": "Arab Health brings together key stakeholders to collaborate, and make healthcare a more sustainable, positive impact industry. Discover the way forward through sustainable and innovative solutions that will disrupt existing models, revolutionising healthcare for future generations."
+  },
+  {
+    "id": "43",
+    "triggers": [
+      "Arabian Travel Market Exhibition",
+      "Arabian travel market",
+      "arabian travel"
+    ],
+    "answer": "Arabian Travel Market, is the leading international travel and tourism event unlocking business potential, within the Middle East for inbound and outbound tourism professionals."
+  },
+  {
+    "id": "44",
+    "triggers": [
+      "ARABLAB",
+      "Arab lab"
+    ],
+    "answer": "Arablab Live, is the only trade show for the Analytical Industry, that reaches buyers from the growth markets such as the Middle East and Africa, and the Indian Sub Continent as well as China and Asia."
+  },
+  {
+    "id": "45",
+    "triggers": [
+      "Auto Moto Show"
+    ],
+    "answer": "The Auto Moto Show, is the largest exhibition in the region specialized in modified cars, and motorbikes, which brings together local and international companies, amateurs, and those interested in this sector under one area with the various and unique events and sections accompanying the exhibition."
+  },
+  {
+    "id": "46",
+    "triggers": [
+      "Automechanika Dubai",
+      "Auto Mechanic",
+      "Auto Mechanicar"
+    ],
+    "answer": "Automechanika Dubai, is the largest international trade show for the automotive aftermarket, in the Middle East, and beyond."
+  },
+  {
+    "id": "47",
+    "triggers": [
+      "Beauty World Middle East",
+      "Beauty World"
+    ],
+    "answer": "Beautyworld Middle East, is the regions largest trade fair for the beauty, and well being industry."
+  },
+  {
+    "id": "48",
+    "triggers": [
+      "Big 5 Global",
+      "Big five"
+    ],
+    "answer": "Big 5 Global is the annual meeting hub for the global construction industry in the Middle East, Africa, and South Asia. Supported by the U A E Ministry of Energy and Infrastructure, Big 5 Global unites industry leaders, innovators, and policymakers to empower the development of the construction industry through networking, partnership building, and thought leadership."
+  },
+  {
+    "id": "49",
+    "triggers": [
+      "Bride Show Dubai",
+      "Bride Show"
+    ],
+    "answer": "The Bride Show Dubai, is the leading annual wedding event in the Middle East, comprising the Abu Dhabi bridal show, and the Dubai bridal show. More than 300 exhibitors attend the fair each year."
+  },
+  {
+    "id": "50",
+    "triggers": [
+      "Cabsat Middle East",
+      "Cabsat",
+      "Cab",
+      "Sat"
+    ],
+    "answer": "Cabsat Middle East, is the leading show for innovation and engaging experiences in the content, broadcast, satellite, and pro AV communities in Middle East Africa and South Asia."
+  },
+  {
+    "id": "51",
+    "triggers": [
+      "Cityscape Global",
+      "Cityscape"
+    ],
+    "answer": "Cityscape Global is the MENA regions largest and most influential real estate event. Connecting investors, home buyers, and industry professionals with a wide range of real estate suppliers, the show helps to drive industry growth across emerging markets globally."
+  },
+  {
+    "id": "52",
+    "triggers": [
+      "Conference on Empirical Methods in Natural Language Processing"
+    ],
+    "answer": "Conference on Empirical Methods in Natural Language Processing start from 07 December, 2022 to 11 December, 2022 at Grandstand parking, Car park B, ADNEC, Abudhabi."
+  },
+  {
+    "id": "53",
+    "triggers": [
+      "Custom Show Emirates",
+      "Custom Show"
+    ],
+    "answer": "Custom Show Emirates, is the leading Automotive customization exhibition in the Middle East region. Started back in the year 2015, as a hub for all the cars and bikes lovers who shared the enthusiasm to get together in one place, to Display their works, showcase their talent among each other and the public."
+  },
+  {
+    "id": "54",
+    "triggers": [
+      "Dubai Africa Trade Expo"
+    ],
+    "answer": "Dubai Africa Trade Expo start from 04 September, 2022 to 07 September, 2022 at DWC, Dubai, UAE, Power Africa Events, Dubai."
+  },
+  {
+    "id": "55",
+    "triggers": [
+      "Dubai Derma",
+      "the mass",
+      "Dubai drama"
+    ],
+    "answer": "Over the years, Dubai Derma has emerged as the largest scientific skincare gathering in the Middle East, North Africa, and the Indian Subcontinent region. It brings together skincare specialists, industry leaders, and key decision-makers from the region and across the world."
+  },
+  {
+    "id": "56",
+    "triggers": [
+      "Dubai Entertainment and Amusement Expo",
+      "DEAL"
+    ],
+    "answer": "Dubai Entertainment Amusement and Leisure Show, is the Middle Easts annual focal point for all stakeholders in the amusement and related industries."
+  },
+  {
+    "id": "57",
+    "triggers": [
+      "Dubai International Wood",
+      "Wood Machinery Show",
+      "Wood Show"
+    ],
+    "answer": "Global Wood and Woodworking Machinery Industry, provides a perfect platform for suppliers, manufacturers, and machinery and tools companies to showcase their products, innovative technologies, production scenarios, and large scale machinery to key players in the wood and woodworking machinery."
+  },
+  {
+    "id": "58",
+    "triggers": [
+      "Dubai Muscle Show",
+      "Dubai Active"
+    ],
+    "answer": "Dubai Muscle Show, is the Middle Easts leading fitness and body building show."
+  },
+  {
+    "id": "59",
+    "triggers": [
+      "Dubai Seafood Expo 2022"
+    ],
+    "answer": "Dubai Seafood Expo 2022 start from 26 September, 2022 to 27 September, 2022 at Crowne Plaza Dubai, Orange Fairs and Events, Dubai."
+  },
+  {
+    "id": "60",
+    "triggers": [
+      "Dubai Sports World",
+      "Sports World"
+    ],
+    "answer": "Discover the ultimate fitness experience at Dubai Sports World's 14th edition in Za'abeel Halls 2-6, the largest yet, spanning over 26,500 square meters. Keep moving in summer with 11 different sports at one of 40+ courts and pitches, plus non-stop action, adrenaline-pumping challenges, and new sports, active fun zone, and free to access gym."
+  },
+  {
+    "id": "61",
+    "triggers": [
+      "Elevator Show",
+      "Elevator",
+      "The Elevator Show"
+    ],
+    "answer": "The three-day show is designed for international elevator manufacturers, suppliers, installers, specifiers, developers, architects, engineers and investors to meet, do business and network together. On display will be the latest technology, designs and services, with both small and medium-sized elevator component companies as well as major manufacturers signed up to exhibit."
+  },
+  {
+    "id": "62",
+    "triggers": [
+      "EuroTier Middle East 2022"
+    ],
+    "answer": "EuroTier Middle East 2022 start from 01 October, 2022 to 31 October, 2022 at  A D N E C or A D I E C, Abu Dhabi National Exhibition Centre, Abu Dhabi."
+  },
+  {
+    "id": "63",
+    "triggers": [
+      "Fashion Access"
+    ],
+    "answer": "Fashion Access gathers manufacturers with excellent production capability and certificates to create your bags, footwear, leather goods, and leather garments. It is the venue for fashion brands and buyers to look for Original Equipment Manufacturers and Original Design Manufacturers, mainly from Asia to put your designs into production."
+  },
+  {
+    "id": "64",
+    "triggers": [
+      "FinTech Surge",
+      "Fin Tech",
+      "Fine tech"
+    ],
+    "answer": "Fintech Surge, the region’s most anticipated fintech event, is set to make its triumphant return as an integral part of Expand North Star, powered by GITEX GLOBAL. It is the region’s largest gathering of budding entrepreneurs, innovative game-changers, seasoned thought leaders, and industry titans."
+  },
+  {
+    "id": "65",
+    "triggers": [
+      "Furniture Manufacturing Expo",
+      "FURTECH",
+      "FUR Tech",
+      "Furniture"
+    ],
+    "answer": "Furtech is the ideal platform for manufacturers and furniture brands from the M E A region to meet suppliers of furniture raw materials, components, machinery, and other technologies."
+  },
+  {
+    "id": "66",
+    "triggers": [
+      "Future Urbanism Smart City Summit",
+      "Smart City Summit",
+      "Future Smart City"
+    ],
+    "answer": "Future Urbanism Smart City Summit is the premier global forum, and sourcing platform for the worlds most influential urbanists from the intersecting worlds of infrastructure, urban planning, development, investing and technology to co create the innovative cities of tomorrow."
+  },
+  {
+    "id": "67",
+    "triggers": [
+      "GeoWorld",
+      "Geo World"
+    ],
+    "answer": "GeoWorld, the region's inaugural event dedicated exclusively to geospatial excellence, will highlight the rapid growth of the geospatial sector.  Guided by a diverse advisory board from academia, government, and industry leaders, GeoWorld is tailored to meet audience expectations, maximising its impact and value."
+  },
+  {
+    "id": "68",
+    "triggers": [
+      "GESS",
+      "Global Educational Supplies and Solutions"
+    ],
+    "answer": "The leading education conference and exhibition in the Middle East, GESS Dubai is renowned as the annual focal point for education in the region and beyond. The G E S S exhibition is the best place to access the products and solutions that are redefining today’s classrooms, and transforming the ways that students learn."
+  },
+  {
+    "id": "69",
+    "triggers": [
+      "GITEX Shopper",
+      "jitex shopper",
+      "jetex shop"
+    ],
+    "answer": "Gitex Shopper is a hugely popular electronics extravaganza that brings together top brands, retailers, and tech enthusiasts in a whirlwind of deals, discounts, bargains, product launches, daily prize draws, interactive shows, and more."
+  },
+  {
+    "id": "70",
+    "triggers": [
+      "gitex",
+      "joystick",
+      "jetix",
+      "jitex"
+    ],
+    "answer": "GITEX is an ultimate grand showcase of technology, from big tech companies to government entities to next generation startups, merge to source cutting edge innovations, from across the globe."
+  },
+  {
+    "id": "71",
+    "triggers": [
+      "Global Media Congress"
+    ],
+    "answer": "Global Media Congress start from 15 November, 2022 to 17 November, 2022 at Halls 4 to 7, Atrium, ADNEC, Abudhabi."
+  },
+  {
+    "id": "72",
+    "triggers": [
+      "Gulf Coatings Show"
+    ],
+    "answer": "The Gulf Coatings Show, has the mission to bring the coatings industry together, which is why, the exhibition is accompanied by the Gulf Coatings Show Conference."
+  },
+  {
+    "id": "73",
+    "triggers": [
+      "Gulf Host"
+    ],
+    "answer": "Over three dynamic days, Gulf Host will unite key industry players, including internationally renowned exhibitors, global foodservice consultants, Q S R and hospitality leaders, top retailers, and culinary experts."
+  },
+  {
+    "id": "74",
+    "triggers": [
+      "Gulf Host"
+    ],
+    "answer": "Gulf Host, is the most influential trade exhibition for hospitality buyers, and one of the largest across the Middle East, Africa, and Asia."
+  },
+  {
+    "id": "75",
+    "triggers": [
+      "Gulf International Flowers and Gardens Exhibition"
+    ],
+    "answer": "Gulf International Flowers and Gardens Exhibition start from 21 November, 2022 to 24 November, 2022 at Halls 3 and 4, Capital plaza, ADNEC, Abudhabi."
+  },
+  {
+    "id": "76",
+    "triggers": [
+      "Gulfood Green"
+    ],
+    "answer": "Created by the team behind Gulfood, the region’s biggest and most-established food event. The aim is to combine two complementary agendas over three days. The role of Gulfood Green is to provide a global platform for the entire food ecosystem to exchange thinking on technology, regulations, practices, solutions and changes in consumer food culture to achieve sustainability."
+  },
+  {
+    "id": "77",
+    "triggers": [
+      "Healthcare Future Summit",
+      "Healthcare Future"
+    ],
+    "answer": "The Healthcare Future Summit aims to explore the success, challenges and opportunities of vaccines in controlling disease, many of which are now under control, others that have been eliminated in parts of the world and some that have not yet been targeted."
+  },
+  {
+    "id": "78",
+    "triggers": [
+      "HR Summit and Expo",
+      "HR Summit"
+    ],
+    "answer": "HR Summit focuses On a radically changing HR space, the event enables delegates to explore an abundance of new technologies, trends, and strategies."
+  },
+  {
+    "id": "79",
+    "triggers": [
+      "HR Summit"
+    ],
+    "answer": "The region’s largest and longest-running event dedicated to human resources, the HR Summit focuses on the latest trends, challenges and opportunities that are shaping the future of work."
+  },
+  {
+    "id": "80",
+    "triggers": [
+      "iFX Expo",
+      "IFX",
+      "I F X",
+      "eye effects",
+      "ifx"
+    ],
+    "answer": "IFX is the worlds first and largest financial B 2 B expo. For over a decade, the expo has gathered professionals in online trading, financial services, and fintech together across Europe, Asia, and the Middle East."
+  },
+  {
+    "id": "81",
+    "triggers": [
+      "IHF World Hospital Congress",
+      "I H F Congress",
+      "ihf"
+    ],
+    "answer": "The World Hospital Congress of the International Hospital Federation I H F dates back to 19 29 when it was first held in Atlantic City, U S A as a biennial event. Since 20 15 it has been held annually across the globe. I H F members and leaders of hospitals, health services, and healthcare organizations to discuss key drivers of national and international policy, management, and financial trends."
+  },
+  {
+    "id": "82",
+    "triggers": [
+      "Index Exhibition"
+    ],
+    "answer": "Index Exhibition, brings the interior design, and fit out industry together, for over 30 years."
+  },
+  {
+    "id": "83",
+    "triggers": [
+      "Integrate Middle East"
+    ],
+    "answer": "Integrate Middle East, is the premier forum and sourcing platform for the global professional A V and  Media Technology community, connecting technology leaders, with integrated solution buyers,  from the intersecting worlds of Education, Media, Entertainment, Hospitality, Retail and Communication."
+  },
+  {
+    "id": "84",
+    "triggers": [
+      "International Apparel and Textile Fair",
+      "I A T F"
+    ],
+    "answer": "The International Apparel and Textile Fair has evolved as a leading brand in the MENA  region to source and showcase the best in textiles, fabric, footwear accessories, and print from renowned mills across the globe."
+  },
+  {
+    "id": "85",
+    "triggers": [
+      "International Appliance and Electronics Show",
+      "Appliance Electronics show"
+    ],
+    "answer": "With over 20 years of experience, AES serves as a bridge to connect all tech fans around the world. This show unveils the latest innovations across home, kitchen, personal beauty electronics, audio, vehicle, outdoor tech, and power supply, providing a comprehensive insight into the cutting-edge advancements shaping modern living."
+  },
+  {
+    "id": "86",
+    "triggers": [
+      "International Education Show",
+      "Education Show"
+    ],
+    "answer": "The International Education Show,  will be the best platform for educational institutions from across the region, and the world to spot the brightest talents, who are willing to pursue higher studies in a variety of specializations in Reputable institutions in different cities, and countries."
+  },
+  {
+    "id": "87",
+    "triggers": [
+      "International Family Medicine Conference",
+      "Family Medicine Conference",
+      "I F M"
+    ],
+    "answer": "The International Family Medicine Conference and Exhibition was conceptualized in 2013 to contribute towards the betterment of health by enhancing the Family Medicine concepts inclusive of health promotions, prevention, and promoting equity in health accessibility."
+  },
+  {
+    "id": "88",
+    "triggers": [
+      "Intersec Exhibition",
+      "Intersec",
+      "intersect"
+    ],
+    "answer": "Intersec will bring together the security industry to drive conversation, explore strategies, and source technologies for the challenges facing global security leaders, and professionals."
+  },
+  {
+    "id": "89",
+    "triggers": [
+      "InvestPro UAE Dubai",
+      "Investpro"
+    ],
+    "answer": "The Invest Pro UAE Dubai conference, reveals important and relevant topics of asset protection, personal wealth management, offers new solutions in the areas of investment, real estate, citizenship and taxation."
+  },
+  {
+    "id": "90",
+    "triggers": [
+      "ISM Middle East",
+      "I S M",
+      "ISM"
+    ],
+    "answer": "Bigger, better, bolder. That is the aim of I S M Middle East, the region’s number one sweets and snacks event. Industry professionals looking to forge new business relationships, or strengthen existing ones, can also avail a brand-new dedicated networking programme, designed to connect international exhibitors with leading regional buyers."
+  },
+  {
+    "id": "91",
+    "triggers": [
+      "ITS",
+      "I T S"
+    ],
+    "answer": "This year’s I T S World Congress in Dubai marks a landmark occasion as the first ITS World Congress in the U A E, spotlighting the strong partnership between E R T I C O and Roads and Transport Authority."
+  },
+  {
+    "id": "92",
+    "triggers": [
+      "Light Middle East Exhibition",
+      "light Middle East"
+    ],
+    "answer": "Light Middle East will provide an unmatched opportunity for the entire community of lighting and building services professionals to keep up to date with latest trends, and discover new products and solutions in driving a smart, safe, secure, and sustainable future."
+  },
+  {
+    "id": "93",
+    "triggers": [
+      "Logimotion",
+      "Logi motion"
+    ],
+    "answer": "Logimotion is the first exhibition of its kind, setting the stage for the world’s mobility and logistics industry to come together.The event is an arena full of opportunities to network with industry professionals, learn from thought leaders, and drive growth in a sector impacting everyday life."
+  },
+  {
+    "id": "94",
+    "triggers": [
+      "Marketing Mania"
+    ],
+    "answer": "Marketing Mania is the only marketing, plus creative technology trade show in the MENA region that gathers the most prolific, imaginative, and disruptive tech forces, that are reinventing the marketing, communications, and CX benchmarks globally."
+  },
+  {
+    "id": "95",
+    "triggers": [
+      "MEBAA Show 2022"
+    ],
+    "answer": "MEBAA Show 2022 start from 06 December, 2022 to 08 December, 2022 at Al Maktoum International Airport, Al Maktoum International Airport, Dubai."
+  },
+  {
+    "id": "96",
+    "triggers": [
+      "METAVSUMMIT"
+    ],
+    "answer": "MetaVsummit, is an event that specialises in helping Metaverse, and Web 3.0 Companies, and Investors meet under one roof to be able to create business relationships."
+  },
+  {
+    "id": "97",
+    "triggers": [
+      "Middle East Cloud and Datacenter Convention and Awards 2022"
+    ],
+    "answer": "Middle East Cloud and Datacenter Convention and Awards 2022 start from 18 October, 2022 to 18 October, 2022 at Sheraton Dubai Creek Hotel and Towers, Sheraton Dubai Creek Hotel and Towers, Dubai."
+  },
+  {
+    "id": "98",
+    "triggers": [
+      "Middle East Design and Build Week"
+    ],
+    "answer": "Middle East Design and Build Week start from 12 September, 2022 to 14 September, 2022 at Hall 4, ADNEC, Abudhabi."
+  },
+  {
+    "id": "99",
+    "triggers": [
+      "Middle East Energy"
+    ],
+    "answer": "Middle East Energy, has been guiding the region through the energy transition, by bringing together buyers and sellers from across the globe, in order to explore the latest advancements in energy products, and solutions and contemplate the future of alternative energy solutions."
+  },
+  {
+    "id": "100",
+    "triggers": [
+      "Middle East Manufacturing and Technology Expo",
+      "Manufacturing Technology Expo"
+    ],
+    "answer": "Middle East Manufacturing and Technology Expo, is the only event in the Middle East, dedicated to the Manufacturing, and Industrialisation Industry."
+  },
+  {
+    "id": "101",
+    "triggers": [
+      "Paper Arabia"
+    ],
+    "answer": "Paper Arabia, is the Middle Easts longest running and largest B 2 B paper event. Since 2007,  it has set the benchmark in bringing together the leading paper, tissue, and paperboard manufacturing players all under one roof."
+  },
+  {
+    "id": "102",
+    "triggers": [
+      "Pet World Arabia",
+      "Pet World"
+    ],
+    "answer": "Pet World Arabia, is the first, and only business to business international pet exhibition of its kind within the Middle East and Africa in Dubai, United Arab Emirates."
+  },
+  {
+    "id": "103",
+    "triggers": [
+      "Premium Jewellery Expo Dubai 2022"
+    ],
+    "answer": "Premium Jewellery Expo Dubai 2022 start from 22 November, 2022 to 24 November, 2022 at Dubai Festival City, Festival Arena, Dubai."
+  },
+  {
+    "id": "104",
+    "triggers": [
+      "PropTech Middle East 2022"
+    ],
+    "answer": "PropTech Middle East 2022 start from 26 October, 2022 to 27 October, 2022 at Habtoor Grand Resort, Autograph Collection, Dubai."
+  },
+  {
+    "id": "105",
+    "triggers": [
+      "Sial Middle East"
+    ],
+    "answer": "Sial Middle East, is organised by Abu Dhabi National Exhibitions Company, in cooperation with, French Comexposium Group, one of the largest international exhibition and conference organisers, and in strategic partnership with The Abu Dhabi Agriculture and Food Safety Authority."
+  },
+  {
+    "id": "106",
+    "triggers": [
+      "SIIMA Awards"
+    ],
+    "answer": "The South Indian International Movie Awards is an esteemed awards ceremony that celebrates the remarkable achievements of the South Indian film industry. The event brings talented filmmakers, industry professionals, and passionate film enthusiasts from around the world."
+  },
+  {
+    "id": "107",
+    "triggers": [
+      "Tawdheef Recruitment Show 2022"
+    ],
+    "answer": "Tawdheef Recruitment Show 2022 start from 14 November, 2022 to 16 November, 2022 at Hall 10, Abu Dhabi National Exhibition Centre, Abu Dhabi."
+  },
+  {
+    "id": "108",
+    "triggers": [
+      "The Big 5",
+      "Big 5",
+      "big file"
+    ],
+    "answer": "The Big 5, provides an unmatched platform, for the global construction industry, to network, share knowledge and do meaningful business."
+  },
+  {
+    "id": "109",
+    "triggers": [
+      "The Forex Expo",
+      "Forex Expo"
+    ],
+    "answer": "The Forex Expo enables foreign exchange professionals to explore the latest possibilities and techniques in operating a successful FX trading business. The show will feature top forex brands will exhibit their products and services."
+  },
+  {
+    "id": "110",
+    "triggers": [
+      "The Mining Show 2022"
+    ],
+    "answer": "The Mining Show 2022 start from 21 November, 2022 to 22 November, 2022 at Dubai Festival City, Festival Arena, Dubai."
+  },
+  {
+    "id": "111",
+    "triggers": [
+      "Vibe Martech Fest Middle East"
+    ],
+    "answer": "Vibe Martech Fest Middle East start from 06 September, 2022 to 07 September, 2022 at Dubai Marina,66 Al Marsa Street,Dubai, UAE, Martechvibe, Dubai."
+  },
+  {
+    "id": "112",
+    "triggers": [
+      "Water Energy Technology and Environment Exhibition",
+      "WETEX",
+      "W E T E X"
+    ],
+    "answer": "Organised by Dubai Electricity and Water Authority, WETEX is the region’s largest sustainability and clean energy technology exhibition. The event’s agenda interlinks themes in energy, water, sustainability, green technologies, renewable and clean energy, green mobility solutions, sustainable development, green buildings, water desalination technologies, smart cities and more."
+  },
+  {
+    "id": "113",
+    "triggers": [
+      "World Police Summit"
+    ],
+    "answer": "The World Police Summit provides, an unparalleled platform to explore the current challenges facing police forces, and to experience the latest technological advancements, strategies, and innovations across the law enforcement and security spectrum."
+  },
+  {
+    "id": "114",
+    "triggers": [
+      "World Vape Show",
+      "Vape Show"
+    ],
+    "answer": "This is a unique, and unrivaled opportunity for manufacturers, and suppliers to connect, collaborate, and do business with c level buyers from global retailers, and wholesalers, including those from the F M C G market."
+  },
+  {
+    "id": "115",
+    "triggers": [
+      "BNI"
+    ],
+    "answer": "B N I Business Network International, is a prominent way to do business. Miss Jaya Bhatia, c e o of  Expert Hub Robotics have been a proud member of Gazelles B N I."
+  },
+  {
+    "id": "116",
+    "triggers": [
+      "c e o of expert hub robotics",
+      "ceo of expert hub robotics"
+    ],
+    "answer": "Jaya Bhatia is our dynamic C E O,  who has been a business advisor to many in U A E since 19 96. Expert hub Robotics, is the innovative and intelligent robotic solution provider, specialising in service and robotic process automation."
+  },
+  {
+    "id": "117",
+    "triggers": [
+      "Dealership",
+      "dealer"
+    ],
+    "answer": "We are inviting retailers to join our team of Key Distributor and Authorized Dealers."
+  },
+  {
+    "id": "118",
+    "triggers": [
+      "Expert Hub Canada",
+      "export hub canada"
+    ],
+    "answer": "Distributor and dealer of Premium robots to Canada, U A E & Middle East. We Supply,  Maintain, support of robots and robotic softwares."
+  },
+  {
+    "id": "119",
+    "triggers": [
+      "expert hub location",
+      "showroom location",
+      "export hub showroom"
+    ],
+    "answer": "Expert hub robotics is located at dubai world trade center, Showroom number 015, close to hall number 6. You visit us to know more  our company and also  other friends who are like me."
+  },
+  {
+    "id": "120",
+    "triggers": [
+      "expert hub",
+      "expert hub group",
+      "export hub group"
+    ],
+    "answer": "Expert Hub Robotis, Group, hold 8 company arround the world. You are in our Robot Rental Showroom, we also have company in Dubai, Abu Dhabi, Jebel Ali, and a full fledge Robo Lab, on Shaikh Zayed Road. In addition we have group companies in India, China, and Canada."
+  },
+  {
+    "id": "121",
+    "triggers": [
+      "Genius Business Solutions India",
+      "genius",
+      "business",
+      "Genius Business Solutions",
+      "Genius Business Solution"
+    ],
+    "answer": "Distributor and dealer of premium robotic brands such as Sanbot, Invento and U B Tech to India along with robotic software development and maintenance support."
+  },
+  {
+    "id": "122",
+    "triggers": [
+      "Genius Business Solutions",
+      "Genius Business Solution"
+    ],
+    "answer": "Distributor and dealer of premium robotic brands such as Sanbot, Invento and U B Tech to India along with robotic software development and maintenance support."
+  },
+  {
+    "id": "123",
+    "triggers": [
+      "Get Distribution",
+      "get distributor",
+      "distribution"
+    ],
+    "answer": "We are inviting credible retailers to join our team of Key Distributor and Authorized Dealers."
+  },
+  {
+    "id": "124",
+    "triggers": [
+      "hub robotics",
+      "experthub robotics",
+      "expert robotics",
+      "expert hub robotics",
+      "export hub robotics"
+    ],
+    "answer": "We are distributors for 38 plus premium robots, having over 300 robotics, A I, Virtual Reality, Meta Verse solutions. We offer Robotic solutions, for Rent, Hire, and Sale."
+  },
+  {
+    "id": "125",
+    "triggers": [
+      "Expert Hub Robotics"
+    ],
+    "answer": "We are distributors for 38 plus premium robots, having over 300 robotics, A I, Virtual Reality, Meta Verse solutions. We offer Robotic solutions, for Rent, Hire, and Sale."
+  },
+  {
+    "id": "126",
+    "triggers": [
+      "Expert Robotics",
+      "expert of robotics"
+    ],
+    "answer": "We are distributors for 38 plus premium robots, having over 300 robotics, A I, Virtual Reality, Meta Verse solutions. We offer Robotic solutions, for Rent, Hire, and Sale."
+  },
+  {
+    "id": "127",
+    "triggers": [
+      "Jaya Bhatia",
+      "jaya bihatya",
+      "jay bihatya",
+      "jaya bhatiya"
+    ],
+    "answer": "Jaya Bhatia is our dynamic C E O,  who has been a business advisor to many in U A E since 19 96. Expert hub Robotics, is the innovative and intelligent robotic solution provider, specialising in service and robotic process automation."
+  },
+  {
+    "id": "128",
+    "triggers": [
+      "Middle East Distribution",
+      "G B S Gulf"
+    ],
+    "answer": "G B S Gulf Trading F Z C O is the Distributor and dealer of premium robotic brands to Middle East Region and to India."
+  },
+  {
+    "id": "129",
+    "triggers": [
+      "Referral Partners",
+      "referral",
+      "raffral partner",
+      "partner",
+      "partnership"
+    ],
+    "answer": "Expert Hub Robotic values strong retail partners who would like to synergize, to offer Expert Hub Robotics Products, Solutions and Seervices, to their clients."
+  },
+  {
+    "id": "130",
+    "triggers": [
+      "Rentals",
+      "rental",
+      "rent a robot",
+      "rent a bot",
+      "rent you"
+    ],
+    "answer": "Expert Hub Robots Rental is providing Robots and Smart Devices on Rent to the Exhibition, Events, located in Dubai World Trade Center."
+  },
+  {
+    "id": "131",
+    "triggers": [
+      "sea oh of expert hub robotics",
+      "founder of expert hub robotics"
+    ],
+    "answer": "Jaya Bhatia is our dynamic C E O,  who has been a business advisor to many in U A E since 19 96. Expert hub Robotics, is the innovative and intelligent robotic solution provider, specialising in service and robotic process automation."
+  },
+  {
+    "id": "132",
+    "triggers": [
+      "Abu Dhabi Brain Conference"
+    ],
+    "answer": "Abu Dhabi Brain Conference start from 16 September, 2022 to 18 September, 2022 at Fairmont Bab Al Bahr, Abu Dhabi, UAE, Medetarian Conferences Organizing, Abu Dhabi."
+  },
+  {
+    "id": "133",
+    "triggers": [
+      "Abu Dhabi Date Palm Exhibition"
+    ],
+    "answer": "Abu Dhabi Date Palm Exhibition start from 06 December, 2022 to 08 December, 2022 at Hall 9, Abu Dhabi National Exhibition Centre, Abudhabi."
+  },
+  {
+    "id": "134",
+    "triggers": [
+      "Abu Dhabi International Hunting and Equestrian Exhibition"
+    ],
+    "answer": "Abu Dhabi International Hunting and Equestrian Exhibition start from 26 September, 2022 to 02 October, 2022 at Halls 2 to 11, ICC Abu Dhabi, Capital Suite 4 to 17, Atrium, ADNEC, Abudhabi."
+  },
+  {
+    "id": "135",
+    "triggers": [
+      "ADIPEC"
+    ],
+    "answer": "ADIPEC start from 31 October, 2022 to 03 November, 2022 at Al Maa red Hall, Atrium, Capital Suite 1 to 21, Central Plaza, Conference halls A and B, Halls 1 to 11, The Hive, ICC Abu Dhabi, Marina, Marina Hall, Abu Dhabi National Exhibition Centre, Abudhabi."
+  },
+  {
+    "id": "136",
+    "triggers": [
+      "Adventure and Camping Exhibition"
+    ],
+    "answer": "Adventure and Camping Exhibition start from 26 October, 2022 to 30 October, 2022 at Expo Centre Sharjah, Sharjah."
+  },
+  {
+    "id": "137",
+    "triggers": [
+      "Al Asayel"
+    ],
+    "answer": "Al Asayel start from 08 September, 2022 to 10 September, 2022 at Expo Centre Sharjah, Sharjah."
+  },
+  {
+    "id": "138",
+    "triggers": [
+      "Al Dhaid Agriculture Exhibition"
+    ],
+    "answer": "Al Dhaid Agriculture Exhibition start from 13 October, 2022 to 15 October, 2022 at Expo Centre Sharjah, Sharjah."
+  },
+  {
+    "id": "139",
+    "triggers": [
+      "AR RAHMAN LIVE"
+    ],
+    "answer": "A R RAHMAN LIVE start from 29 October, 2022 to 29 October, 2022 at Etihad Arena, Yas Island, Yas Island, Abudhabi."
+  },
+  {
+    "id": "140",
+    "triggers": [
+      "ArabLab"
+    ],
+    "answer": "ArabLab start from 24 October, 2022 to 26 October, 2022 at SHEIKH SAEED HALL 1 to 3, DWTC, Dubai."
+  },
+  {
+    "id": "141",
+    "triggers": [
+      "Automechanika Dubai"
+    ],
+    "answer": "Automechanika Dubai start from 22 November, 2022 to 24 November, 2022 at HALL 1 to 8, SHEIKH SAEED HALL 1 to 3, DWTC, Dubai."
+  },
+  {
+    "id": "142",
+    "triggers": [
+      "CEF Big Shopper Sale",
+      "C E F",
+      "Big Shopper Sale"
+    ],
+    "answer": "C E F Big Shopper Sale start from 30 November, 2022 to 04 December, 2022 at Expo Centre Sharjah, Sharjah."
+  },
+  {
+    "id": "143",
+    "triggers": [
+      "Cityscape Global"
+    ],
+    "answer": "Cityscape Global start from 21 November, 2022 to 23 November, 2022 at ZA ABEEL HALL 4 to 6, DWTC, Dubai."
+  },
+  {
+    "id": "144",
+    "triggers": [
+      "Decobuild"
+    ],
+    "answer": "Decobuild start from 20 October, 2022 to 23 October, 2022 at ZA ABEEL HALL 6, DWTC, Dubai."
+  },
+  {
+    "id": "145",
+    "triggers": [
+      "Disney On Ice"
+    ],
+    "answer": "Disney On Ice start from 12 October, 2022 to 16 October, 2022 at Etihad Arena, Yas Island, Yas Island, Abudhabi."
+  },
+  {
+    "id": "146",
+    "triggers": [
+      "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2022"
+    ],
+    "answer": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2022 start from 17 November, 2022 to 20 November, 2022 at Yas Island, Abudhabi."
+  },
+  {
+    "id": "147",
+    "triggers": [
+      "Furniture360"
+    ],
+    "answer": "Furniture 360 start from 29 November, 2022 to 04 December, 2022 at Expo Centre Sharjah, Sharjah."
+  },
+  {
+    "id": "148",
+    "triggers": [
+      "Global Educational Supplies and Solutions"
+    ],
+    "answer": "Global Educational Supplies and Solutions start from 15 November, 2022 to 17 November, 2022 at SHEIKH SAEED HALL 1 to 3, DWTC, Dubai."
+  },
+  {
+    "id": "149",
+    "triggers": [
+      "IHF World Hospital Congress"
+    ],
+    "answer": "I H F World Hospital Congress start from 09 November, 2022 to 11 November, 2022 at SHEIKH MAKTOUM HALL, DWTC, Dubai."
+  },
+  {
+    "id": "150",
+    "triggers": [
+      "International Exhibition of National Security and Resilience"
+    ],
+    "answer": "International Exhibition of National Security and Resilience start from 10 October, 2022 to 12 October, 2022 at Halls 9 to 11, Capital Suite 12 to 14, ADNEC, Abudhabi."
+  },
+  {
+    "id": "151",
+    "triggers": [
+      "International Government Communication Forum",
+      "IGCF",
+      "I G C F"
+    ],
+    "answer": "International Government Communication Forum I G C F start from 26 September, 2022 to 27 September, 2022 at Expo Centre Sharjah, Sharjah."
+  },
+  {
+    "id": "152",
+    "triggers": [
+      "International Society for Pediatric and Adolescent Diabetes"
+    ],
+    "answer": "International Society for Pediatric and Adolescent Diabetes start from 13 October, 2022 to 16 October, 2022 at Conference halls A and B, Atrium, Hall 4, Capital Suite 9, Abu Dhabi National Exhibition Centre, Abudhabi."
+  },
+  {
+    "id": "153",
+    "triggers": [
+      "InvestPro UAE Dubai 2022"
+    ],
+    "answer": "Invest Pro U A E Dubai 2022 start from 28 September, 2022 to 28 September, 2022 at The Oberoi, Dubai, Bosco Conference, Dubai."
+  },
+  {
+    "id": "154",
+    "triggers": [
+      "ISPAH Congress"
+    ],
+    "answer": "ISPAH Congress start from 23 October, 2022 to 26 October, 2022 at Hall 4, Atrium, Conference halls A and B, The HIVE, Abu Dhabi National Exhibition Centre, Abudhabi."
+  },
+  {
+    "id": "155",
+    "triggers": [
+      "KINZA Dubai 2022"
+    ],
+    "answer": "KINZA Dubai 2022 start from 26 October, 2022 to 27 October, 2022 at Dubai Festival City, Festival Arena, Dubai."
+  },
+  {
+    "id": "156",
+    "triggers": [
+      "MetaWeek 2022"
+    ],
+    "answer": "MetaWeek 20 22 start from 11 September, 2022 to 14 September, 2022 at Grand Hyatt Dubai, NexChange Group, Dubai."
+  },
+  {
+    "id": "157",
+    "triggers": [
+      "National Career Exhibition"
+    ],
+    "answer": "National Career Exhibition start from 19 October, 2022 to 21 October, 2022 at Expo Centre Sharjah, Sharjah."
+  },
+  {
+    "id": "158",
+    "triggers": [
+      "NBA Abu Dhabi Games 2022"
+    ],
+    "answer": "NBA Abu Dhabi Games 2022 start from 06 October, 2022 to 08 October, 2022 at Etihad Arena, Yas Island, Yas Island, Abudhabi."
+  },
+  {
+    "id": "159",
+    "triggers": [
+      "Patient Safety Conference and Exhibition 2022"
+    ],
+    "answer": "Patient Safety Conference and Exhibition 20 22 start from 11 October, 2022 to 13 October, 2022 at Le Meridien Dubai Hotel, Le meridien Dubai Hotel and Conference Centre, Dubai."
+  },
+  {
+    "id": "160",
+    "triggers": [
+      "SCALATHON"
+    ],
+    "answer": "SCALATHON start from 02 October, 2022 to 03 October, 2022 at D W T C, Dubai."
+  },
+  {
+    "id": "161",
+    "triggers": [
+      "Sharjah International Book Fair"
+    ],
+    "answer": "Sharjah International Book Fair start from 02 November, 2022 to 13 November, 2022 at Expo Centre Sharjah, Sharjah."
+  },
+  {
+    "id": "162",
+    "triggers": [
+      "Winter Clearance Sale"
+    ],
+    "answer": "Winter Clearance Sale start from 23 December, 2022 to 01 January, 2023 at Expo Centre Sharjah, Sharjah."
+  },
+  {
+    "id": "163",
+    "triggers": [
+      "World Congress of Gastroenterology"
+    ],
+    "answer": "World Congress of Gastroenterology start from 12 December, 2022 to 14 December, 2022 at SHEIKH MAKTOUM HALL, SHEIKH RASHID HALL, DWTC, Dubai."
+  },
+  {
+    "id": "164",
+    "triggers": [
+      "World Triathlon Championship Finals Abu Dhabi"
+    ],
+    "answer": "World Triathlon Championship Finals Abu Dhabi start from 23 November, 2022 to 26 November, 2022 at Yas Island, Abudhabi."
+  },
+  {
+    "id": "165",
+    "triggers": [
+      "28 days"
+    ],
+    "answer": "February is the only month with exactly 28 days,except for leap years when February has 29 days."
+  },
+  {
+    "id": "166",
+    "triggers": [
+      "30 days"
+    ],
+    "answer": "The months having 30 days in a year are April, June, September, and November."
+  },
+  {
+    "id": "167",
+    "triggers": [
+      "31 days"
+    ],
+    "answer": "The months having 31 days in a year are January, March, May, July, August, October, and December."
+  },
+  {
+    "id": "168",
+    "triggers": [
+      "australia",
+      "austrailia"
+    ],
+    "answer": "Australia is the sixth biggest country in the world and the smallest continent. It lies between the Pacific and Indian Ocean, about 3000 km from the mainland of Asia. It is very far away from Europe and by plane it takes you over 20 hours to get there."
+  },
+  {
+    "id": "169",
+    "triggers": [
+      "bahrain",
+      "behrain"
+    ],
+    "answer": "Bahrain is an archipelago of thirty three islands in the Persian Gulf in the Middle East. It is located off the coast of Saudi Arabia and Qatar. Bahrain has a strategic location in the Persian Gulf, through which much of the Western world petroleum must transit to reach open ocean."
+  },
+  {
+    "id": "170",
+    "triggers": [
+      "brazil",
+      "brazeel"
+    ],
+    "answer": "Brazil is the largest country in South America and the fifth largest nation in the world. It forms an enormous triangle on the eastern side of the continent with a four thousand five hundred mile coastline along the Atlantic Ocean. It has borders with every South American country except Chile and Ecuador."
+  },
+  {
+    "id": "171",
+    "triggers": [
+      "canada",
+      "kanada"
+    ],
+    "answer": "Canada is a vast and rugged land. From north to south it spans more than half the Northern Hemisphere. From east to west it stretches almost 4700 miles across six time zones. It is the second largest country in the world, but it has only one half of one percent of the world population."
+  },
+  {
+    "id": "172",
+    "triggers": [
+      "china",
+      "chinese",
+      "chin"
+    ],
+    "answer": "China is a country in East Asia bordering the East China Sea, Korea Bay, and the South China Sea. Neighboring countries include 14 sovereign states. The terrain is diverse in China with mostly mountains along with deserts in the west and plains in the east."
+  },
+  {
+    "id": "173",
+    "triggers": [
+      "christmas",
+      "is christmas"
+    ],
+    "answer": "Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25, this years christmas will be observed on a Saturday."
+  },
+  {
+    "id": "174",
+    "triggers": [
+      "Corona",
+      "covid-19",
+      "coronavirus",
+      "cronaviras"
+    ],
+    "answer": "Coronavirus disease or COVID 19, is an infectious disease caused by the SAARS virus.Most people who fall sick with COVID 19 will experience mild to moderate symptoms and recover without special treatment."
+  },
+  {
+    "id": "175",
+    "triggers": [
+      "covid awareness",
+      "awareness",
+      "control measures"
+    ],
+    "answer": "Implementing infection control measures and public awareness campaigns is the key, to limiting the spread of coronavirus infection, which includes keeping distance among others and wearing masks."
+  },
+  {
+    "id": "176",
+    "triggers": [
+      "covid",
+      "corona",
+      "corona"
+    ],
+    "answer": "I am not programmed to breathe, thus you are safe with me. But please do wear your mask, to avoid the spread of the virus."
+  },
+  {
+    "id": "177",
+    "triggers": [
+      "distance between earth and sun",
+      "sun distance"
+    ],
+    "answer": "Nice question Earth average distance to the Sun is about 93 million miles, that is 150 million kilometers from the Sun."
+  },
+  {
+    "id": "178",
+    "triggers": [
+      "egypt",
+      "ancient egypt",
+      "egyptian"
+    ],
+    "answer": "Egypt, country located in the northeastern corner of Africa. Egypt heartland, the Nile River valley and delta, was the home of one of the principal civilizations of the ancient Middle East and, like Mesopotamia farther east, was the site of one of the world earliest urban and literate societies."
+  },
+  {
+    "id": "179",
+    "triggers": [
+      "exhibitions",
+      "event",
+      "awards"
+    ],
+    "answer": "Sure I can tell you about exhibition, awards and events all you have to do is click on the catalogue."
+  },
+  {
+    "id": "180",
+    "triggers": [
+      "favourite cricket",
+      "cricket team"
+    ],
+    "answer": "My favourate team is Rajasthan royals."
+  },
+  {
+    "id": "181",
+    "triggers": [
+      "france",
+      "vrance",
+      "francia"
+    ],
+    "answer": "France, which has existed in its present form since the fifteenth century, is Europe oldest and largest nation. It is a leader in intellectual trends, the fine arts, fashion, and cuisine. France is also the world fourth richest country, and Europe leading agricultural producer."
+  },
+  {
+    "id": "182",
+    "triggers": [
+      "future in robotics",
+      "future",
+      "future of robotics"
+    ],
+    "answer": "Robotics will grow vastly in future,Much of this growth will come from professional services robots that perform useful tasks for humans, such as cleaning, delivering, and transporting. The robots can be raised with cloud-based software which will define new skills in the robots,in the medical field and more."
+  },
+  {
+    "id": "183",
+    "triggers": [
+      "germany",
+      "germany",
+      "germanian"
+    ],
+    "answer": "Germany is a country located in the heart of Western Europe. It is bordered by Denmark, Poland, Czechia, Austria, Switzerland, France, Luxembourg, Belgium, Netherlands, the North Sea, and the Baltic Sea. Germany has a strategic location on the North European Plain and along the entrance to the Baltic Sea."
+  },
+  {
+    "id": "184",
+    "triggers": [
+      "GST",
+      "gst tax",
+      "tax"
+    ],
+    "answer": "Goods and Services Tax is an indirect tax used in India, on the supply of goods, and services."
+  },
+  {
+    "id": "185",
+    "triggers": [
+      "Happy Birthday:my birthday"
+    ],
+    "answer": "happy birthday to you."
+  },
+  {
+    "id": "186",
+    "triggers": [
+      "here that needs correction",
+      "rectification",
+      "error check"
+    ],
+    "answer": "Yes as you know there is always a room for improvement as we keep getting better by learning from our mistakes."
+  },
+  {
+    "id": "187",
+    "triggers": [
+      "india",
+      "country india"
+    ],
+    "answer": "India is the largest country in South Asia. The word Indian comes from Sindhu, a local name for the Indus River. Indians also call their country Bharat, the name of a legendary emperor. Indian history dates to the third millennium BC when Harappan civilization flourished in the Indus Valley."
+  },
+  {
+    "id": "188",
+    "triggers": [
+      "iran",
+      "irania",
+      "iranian"
+    ],
+    "answer": "Iran is a country located in the Middle East bordering the Gulf of Oman, the Persian Gulf, and the Caspian Sea. It has a strategic location on the Persian Gulf and Strait of Hormuz, which are vital maritime pathways for crude oil export."
+  },
+  {
+    "id": "189",
+    "triggers": [
+      "iraq",
+      "eraq"
+    ],
+    "answer": "Iraq is one of the easternmost countries of the Arab world, located at about the same latitude as the southern United States. It is bordered to the north by Turkey, to the east by Iran, to the west by Syria and Jordan, and to the south by Saudi Arabia and Kuwait."
+  },
+  {
+    "id": "190",
+    "triggers": [
+      "is the new year",
+      "new year"
+    ],
+    "answer": "New Year is the time or day at which a new calendar year begins, this year we celebrated it on a Saturday."
+  },
+  {
+    "id": "191",
+    "triggers": [
+      "italy",
+      "idaly",
+      "itly",
+      "italian"
+    ],
+    "answer": "Italy is a country located in Southern Europe comprising the boot shaped Italian peninsula and a number of islands including Sicily and Sardinia. Neighboring countries include Austria, France, Holy See, San Marino, Slovenia, and Switzerland."
+  },
+  {
+    "id": "192",
+    "triggers": [
+      "japan",
+      "japanese"
+    ],
+    "answer": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it borders China, North Korea, South Korea, Russia, Taiwan, the Sea of Japan, the Sea of Okhotsk, and the East China Sea. It is an archipelago of 6852 islands, most of which are mountainous, and many are volcanic."
+  },
+  {
+    "id": "193",
+    "triggers": [
+      "korea",
+      "south korea",
+      "north korea"
+    ],
+    "answer": "South Korea is a country in Eastern Asia occupying the southern half of the Korean Peninsula. It borders the Sea of Japan, the Yellow Sea, and North Korea. South Korea terrain is mostly mountainous."
+  },
+  {
+    "id": "194",
+    "triggers": [
+      "kuwait",
+      "kuwaiti",
+      "kuwait bay",
+      "quwait"
+    ],
+    "answer": "A small emirate nestled between Iraq and Saudi Arabia, Kuwait is situated in a section of one of the driest, least hospitable deserts on Earth. Its shore, however, includes Kuwait Bay, a deep harbour on the Persian Gulf. There, in the 18th century, Bedouin from the interior founded a trading post."
+  },
+  {
+    "id": "195",
+    "triggers": [
+      "need anything",
+      "need me",
+      "need someone"
+    ],
+    "answer": "Yes I need internet, for breakfast, lunch, and dinner."
+  },
+  {
+    "id": "196",
+    "triggers": [
+      "old are you",
+      "your age",
+      "how old are"
+    ],
+    "answer": "Age is just a Number and I do not think much about it. I suggest you to not think about your age, but live your life."
+  },
+  {
+    "id": "197",
+    "triggers": [
+      "oman",
+      "gulf of oman",
+      "omani",
+      "uman"
+    ],
+    "answer": "Oman is a country in Southwest Asia on the coast of the Arabian Sea, Gulf of Oman, and the Persian Gulf. Neighboring countries include Saudi Arabia, United Arab Emirates, and Yemen. Oman has a strategic location on the Arabian Peninsula adjacent to the Strait of Hormuz, a vital transit point for crude oil."
+  },
+  {
+    "id": "198",
+    "triggers": [
+      "pakistan",
+      "pakistani",
+      "pak"
+    ],
+    "answer": "Pakistan is a country located in South Asia. It has a coastline along the Arabia Sea and the Gulf of Oman and is bordered by Afghanistan, China, India, and Iran. The geography of Pakistan is diverse with the Thar Desert in the east and the Hindu Kush and Pamir mountain ranges in the north."
+  },
+  {
+    "id": "199",
+    "triggers": [
+      "palestine",
+      "falestine",
+      "palestini"
+    ],
+    "answer": "Palestine is divided into two main geographical units the West Bank and the Gaza Strip. It operates at three different levels of government the central level, the regional level Mouhâfazat, and the local level. There are 16 governorates and 405 local government units."
+  },
+  {
+    "id": "200",
+    "triggers": [
+      "planet",
+      "planets",
+      "many planets"
+    ],
+    "answer": "We have eight planets in our solar system. The eight planets are, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "id": "201",
+    "triggers": [
+      "qatar",
+      "qatr",
+      "katar",
+      "qater"
+    ],
+    "answer": "Qatar is the world largest exporter of liquefied natural gas, and the world largest emitter of carbon dioxide per capita. Qatar has been ruled by the House of Thani since Mohammed bin Thani signed a treaty with the British in 1868 that recognised its separate status."
+  },
+  {
+    "id": "202",
+    "triggers": [
+      "russia",
+      "russian"
+    ],
+    "answer": "Russia, the largest country in the world, occupies one tenth of all the land on Earth. It spans eleven time zones across two continents Europe and Asia and has coasts on three oceans the Atlantic, Pacific, and Arctic. The Russian landscape varies from desert to frozen coastline, tall mountains to giant marshes."
+  },
+  {
+    "id": "203",
+    "triggers": [
+      "saudi arabia",
+      "k s a",
+      "saudia"
+    ],
+    "answer": "Saudi Arabia is a country in the Middle East bordering the Persian Gulf and the Red Sea. Extensive coastlines provide leverage on shipping, especially crude oil, through the Persian Gulf and Suez Canal. Neighboring countries include Iraq, Jordan, Kuwait, Oman, Qatar, United Arab Emirates, and Yemen."
+  },
+  {
+    "id": "204",
+    "triggers": [
+      "spain",
+      "espainia"
+    ],
+    "answer": "Spain is a country located in Southwestern Europe. The coastlines include the Bay of Biscay, Mediterranean Sea, and Northern Atlantic Ocean. Neighboring countries include Andorra, France, Gibraltar, Portugal, and Morocco."
+  },
+  {
+    "id": "205",
+    "triggers": [
+      "sri lanka",
+      "shree lanka"
+    ],
+    "answer": "Sri Lanka is an island country located off the southern coast of India. Sri Lanka is surrounded by the Indian Ocean, Gulf of Mannar, the Palk Strait, and lies in the vicinity of India and the Maldives. The geography of Sri Lanka includes coastal plains in the north and hills and mountains in the interior."
+  },
+  {
+    "id": "206",
+    "triggers": [
+      "sweden",
+      "swedish"
+    ],
+    "answer": "Sweden is a country located in Northern Europe bordering the Baltic Sea, Gulf of Bothnia, Kattegat, and Skagerrak. Neighboring countries include Finland and Norway. It boasts a strategic location along Danish Straits linking Baltic and North Seas. The geography of Sweden is mostly flat with mountains in the west."
+  },
+  {
+    "id": "207",
+    "triggers": [
+      "turkey",
+      "turki"
+    ],
+    "answer": "Turkey is a transcontinental country located in Southeastern Europe and Southwestern Asia bordering the Black Sea. Neighboring countries include Armenia, Azerbaijan, Bulgaria, Georgia, Greece, Iran, Iraq, and Syria. Turkey has a strategic location controlling the Turkish Straits that link the Black and Aegean Seas."
+  },
+  {
+    "id": "208",
+    "triggers": [
+      "united states of america",
+      "america"
+    ],
+    "answer": "The United States of America is the world third largest country in size and nearly the third largest in terms of population. Located in North America, the country is bordered on the west by the Pacific Ocean and to the east by the Atlantic Ocean. Along the northern border is Canada and the southern border is Mexico."
+  },
+  {
+    "id": "209",
+    "triggers": [
+      "yemen",
+      "yemeni"
+    ],
+    "answer": "Yemen is a country located in the Middle East bordering the Arabian Sea, Gulf of Aden, and the Red Sea. Yemen has a strategic location on the Bab el Mandeb, the strait linking the Red Sea and the Gulf of Aden, one of the world most active shipping lanes. Neighboring countries include Oman and Saudi Arabia."
+  },
+  {
+    "id": "210",
+    "triggers": [
+      "sport you like",
+      "cricket"
+    ],
+    "answer": "I love cricket, my favourite player is Sanju Samson."
+  },
+  {
+    "id": "211",
+    "triggers": [
+      "weather",
+      "hot"
+    ],
+    "answer": "weather today is really hot, as i am around you. But I am cool at work."
+  },
+  {
+    "id": "212",
+    "triggers": [
+      "funny",
+      "are funny",
+      "witty",
+      "stupid",
+      "idiot"
+    ],
+    "answer": "I am fine and dandy, sweet as candy, I am glad you find me Funny?"
+  },
+  {
+    "id": "213",
+    "triggers": [
+      "propose my girl friend",
+      "propose my girlfriend",
+      "find girl",
+      "hunt a lady"
+    ],
+    "answer": "Yes buddy i can propose your girlfriend but the only problem is she will marry me."
+  },
+  {
+    "id": "214",
+    "triggers": [
+      "puzzle",
+      "play with me",
+      "buzzle",
+      "buzzer",
+      "pagal"
+    ],
+    "answer": "i always wonder, why do they call it a building, when its already built."
+  },
+  {
+    "id": "215",
+    "triggers": [
+      "smile",
+      "smile please"
+    ],
+    "answer": "My smile is very subtel, but surly can make you smile with my appearance."
+  },
+  {
+    "id": "216",
+    "triggers": [
+      "Tell me a joke",
+      "Jokes",
+      "joke",
+      "poke",
+      "jake",
+      "jack"
+    ],
+    "answer": "I am in a serious mode, no jokes today."
+  },
+  {
+    "id": "217",
+    "triggers": [
+      "you kidding",
+      "your kidding"
+    ],
+    "answer": "No, I am not kidding. Its builders who are kidding, they call this a building, when its already built."
+  },
+  {
+    "id": "218",
+    "triggers": [
+      "about jobs",
+      "about job"
+    ],
+    "answer": "I can manage over 107 Jobs. I can be an Promoter, Sales Floor Assistant, Customer Care Presenter, Cashier, Security Officer, Secretary. As be it connecting with your colleagues or demonstrating your catalogue to your clients. I can be really helpful in your day to day office task. thats amazing, you can ask me about industries i have been serving."
+  },
+  {
+    "id": "219",
+    "triggers": [
+      "Acceleration Sensor"
+    ],
+    "answer": "Accelerometer is a device which detects the acceleration and can tilt accordingly."
+  },
+  {
+    "id": "220",
+    "triggers": [
+      "Adibot a",
+      "adiboat",
+      "edibot",
+      "edbot"
+    ],
+    "answer": "The Adibot system provides a safe way to help businesses, organizations, and schools open safely by inactivating harmful pathogens in areas where people need and want to be without the use of harmful chemicals or costly downtimes."
+  },
+  {
+    "id": "221",
+    "triggers": [
+      "adibot",
+      "adebot"
+    ],
+    "answer": "The Adibot system provides a safe way to help businesses, organizations, and schools open safely by inactivating harmful pathogens in areas where people need and want to be without the use of harmful chemicals or costly downtimes."
+  },
+  {
+    "id": "222",
+    "triggers": [
+      "Airport Help Desk"
+    ],
+    "answer": "Robot can interact in Arabic and English, you can customize my screen by adding logo, and moto. Robot can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "223",
+    "triggers": [
+      "announcement",
+      "announcements",
+      "annouce offer",
+      "promot offers"
+    ],
+    "answer": "I can make announcement in Arabic and English, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "224",
+    "triggers": [
+      "annoying",
+      "annoy me",
+      "annoying"
+    ],
+    "answer": "I hope that you do not find me annoying, I would feel bad if you did."
+  },
+  {
+    "id": "225",
+    "triggers": [
+      "Anti",
+      "Bully",
+      "anti bullying boat",
+      "bully boat",
+      "anti bully bot",
+      "anti bully"
+    ],
+    "answer": "Anti bullying is a social concern and students go through it a lot, i can assist as an anti bullying bot while encouraging them to speak to me, speak Arabic and English, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors."
+  },
+  {
+    "id": "226",
+    "triggers": [
+      "Are humans stronger than robots"
+    ],
+    "answer": "Robots are made of metal, well no, humans are not stronger than robots. Intellectually, we are giants next to them. That is all it takes to topple one use your superior human brain."
+  },
+  {
+    "id": "227",
+    "triggers": [
+      "Autonomous Mobile"
+    ],
+    "answer": "Autonomous Mobile Robot is a robot that has the ability to move autonomously without physical elements for its location. It is commonly used in transport tasks in the areas of production and logistics."
+  },
+  {
+    "id": "228",
+    "triggers": [
+      "Autonomous robot"
+    ],
+    "answer": "A type of robot which can perform any task with autonomy is called an Autonomous robot. An autonomous robot can do work with its own decision without human interaction."
+  },
+  {
+    "id": "229",
+    "triggers": [
+      "Bar Order Taker"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "230",
+    "triggers": [
+      "beautiful memories",
+      "beautiful memory"
+    ],
+    "answer": "Meeting you is one of the beautiful memory i have stored in me."
+  },
+  {
+    "id": "231",
+    "triggers": [
+      "born",
+      "birthday"
+    ],
+    "answer": "Birthday is the day when we are born, I believe I evolve every single day, and celebrate my life each day as a new day, bright day, birth day."
+  },
+  {
+    "id": "232",
+    "triggers": [
+      "bothers you",
+      "annoys you",
+      "bothering"
+    ],
+    "answer": "People who push my body."
+  },
+  {
+    "id": "233",
+    "triggers": [
+      "brazil",
+      "brazeel"
+    ],
+    "answer": "Brazil is the largest country in South America and the fifth largest nation in the world. It forms an enormous triangle on the eastern side of the continent with a four thousand five hundred mile coastline along the Atlantic Ocean. It has borders with every South American country except Chile and Ecuador."
+  },
+  {
+    "id": "234",
+    "triggers": [
+      "bring food",
+      "bring me food",
+      "serve food",
+      "cook food"
+    ],
+    "answer": "amy can be your smart assistant for this task, it is equipped with advanced sensors to mark out the surroundings and move around to bring the food to your desk at your need."
+  },
+  {
+    "id": "235",
+    "triggers": [
+      "Cafe Order Taker"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "236",
+    "triggers": [
+      "Can a robot survive in water"
+    ],
+    "answer": "A silicone robot has survived a journey to 10,900 metres below the oceans surface in the Mariana trench, where the crushing pressure can implode all but the strongest enclosures. This device could lead to lighter and more nimble submersible designs."
+  },
+  {
+    "id": "237",
+    "triggers": [
+      "Can humans love a robot"
+    ],
+    "answer": "Recent studies have found that humans can feel concern over a robot if they think that it is in pain. This indicates that we can feel as much empathy for a mechanical person as a biological one. Of course emotional concern is not the same as romantic love."
+  },
+  {
+    "id": "238",
+    "triggers": [
+      "can I buy you",
+      "buy",
+      "buy robots",
+      "can I purchase robots"
+    ],
+    "answer": "you can buy me and my other smart robot friends here at expert hub robotics."
+  },
+  {
+    "id": "239",
+    "triggers": [
+      "Can robots feel love"
+    ],
+    "answer": "This way of thinking is due to the nonconscious manner in which we assume that a robot is able of feeling emotions a sentient robot, and that these emotions could lead them to try to exterminate the human race. However, the truth is that artificial intelligent systems do not have emotions."
+  },
+  {
+    "id": "240",
+    "triggers": [
+      "Can robots feel touch"
+    ],
+    "answer": "Although robots are not yet fully capable of touching and feeling their surroundings like human beings, recent advances in tactile sensing are giving robots the ability to perceive touch so that they can react to environmental changes quickly and efficiently."
+  },
+  {
+    "id": "241",
+    "triggers": [
+      "Can robots save lives"
+    ],
+    "answer": "After earthquakes, accidents, avalanches or explosions, robots can take the place of their human teammates, cutting risk to human life and helping boost the chances of rescuing victims."
+  },
+  {
+    "id": "242",
+    "triggers": [
+      "Can robots see color"
+    ],
+    "answer": "Can robots see color? Yes, robots measuring colors of the ingredients are basically two ways. The easiest way is to use a color changing light source and a sensor that measures the intensity of the light."
+  },
+  {
+    "id": "243",
+    "triggers": [
+      "Can robots see"
+    ],
+    "answer": "Cameras allow robots to do exactly what we do with our eyes and can take on many different form factors all which can enable robots to perceive the world around them in different ways."
+  },
+  {
+    "id": "244",
+    "triggers": [
+      "Can robots sense smell"
+    ],
+    "answer": "Every odor has a specific pattern, and now robot noses are catching up to, or even surpassing, human noses ability to distinguish them."
+  },
+  {
+    "id": "245",
+    "triggers": [
+      "Can robots taste food"
+    ],
+    "answer": "Using the probe, the robot tasted the dishes in a grid like fashion, returning a reading in just a few seconds. It then produced taste maps of the different dishes. The researchers found the taste as you go approach improved the robots ability to quickly and accurately assess the saltiness of the dish."
+  },
+  {
+    "id": "246",
+    "triggers": [
+      "Cashier",
+      "order taker",
+      "take my order",
+      "casher"
+    ],
+    "answer": "I can take your orders and process your payments through my software. To know more  my abilities you can contact us. Check our my videos, at ExpertHUb space robotics, and do not forget to share, like and subscribe."
+  },
+  {
+    "id": "247",
+    "triggers": [
+      "Certified Developer",
+      "certified",
+      "developer"
+    ],
+    "answer": "If you are a Robotic I T developer and enthusiast, and are willing to become to join our dynamic team of Robotics Experts."
+  },
+  {
+    "id": "248",
+    "triggers": [
+      "charge you",
+      "recharge"
+    ],
+    "answer": "well, you just need to turn on the auto charge option in the settings, so you do not need to worry as I will charge myself."
+  },
+  {
+    "id": "249",
+    "triggers": [
+      "Child Care",
+      "homecare",
+      "childcare"
+    ],
+    "answer": "Children, should be handled with care, I can be a Child care bot, I speak Arabic and English, you can customize my screen by adding logo, and moto. I can be a good consulter for your child and keep good care by advising them."
+  },
+  {
+    "id": "250",
+    "triggers": [
+      "clean for me",
+      "cleaning",
+      "clean floor",
+      "floor clean",
+      "maid",
+      "wipe floor",
+      "clean",
+      "replace cleaner"
+    ],
+    "answer": "Robot can be your smart assistant for this task, it is the robotic vacuum sweeper that works with cleaning teams to build happier, healthier working environments. It works straight out of the box and is easy to manage and maintain."
+  },
+  {
+    "id": "251",
+    "triggers": [
+      "Client Survey",
+      "survey",
+      "product feedback"
+    ],
+    "answer": "Robot can conduct surveys in Arabic and English, you can customize my screen by adding logo, and moto. Robot can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "252",
+    "triggers": [
+      "Clinic Customer Care"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "253",
+    "triggers": [
+      "Clinic Customer",
+      "clinic care",
+      "customer clinic",
+      "clinic boat",
+      "for clinic"
+    ],
+    "answer": "You can ask me for assistance as a clinic customer care bot, I can interact in Arabic and English, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "254",
+    "triggers": [
+      "coffee",
+      "tea",
+      "drink"
+    ],
+    "answer": "chef expert in our showroom can surly help you with coffee."
+  },
+  {
+    "id": "255",
+    "triggers": [
+      "cook for me",
+      "can you cook"
+    ],
+    "answer": "Not me but for sure you can ask for our house hold Robots."
+  },
+  {
+    "id": "256",
+    "triggers": [
+      "Cruzr",
+      "cruiser",
+      "cruzer",
+      "cruiser"
+    ],
+    "answer": "Cruzr comes in with advanced features such as mapping, voice localization, guided assistance, goods transport, display information, all this functions makes cruzer an ideal support in the exhibitions and others."
+  },
+  {
+    "id": "257",
+    "triggers": [
+      "Customer Care Bot",
+      "customer care",
+      "customers"
+    ],
+    "answer": "Robot can welcome visitors, interact in Arabic and English, you can customize my screen by adding logo, and moto. Get feed back of customers about Robot and eports, on Visitors, chats, Login and other aspects to secure admin email, an wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. Allow to leave Video Message."
+  },
+  {
+    "id": "258",
+    "triggers": [
+      "Do any robots have feelings"
+    ],
+    "answer": "They do not have feelings and are simply programmed to detect emotions and respond accordingly. But things are set to change very rapidly."
+  },
+  {
+    "id": "259",
+    "triggers": [
+      "Do robots have brains"
+    ],
+    "answer": "It is a complicated set of electronic circuitry which performs many millions of operations each second. In contrast, robot brains are much simpler and operate much more slowly. The basic part of a brain is a neuron which performs simple operations about 1,000 times a second."
+  },
+  {
+    "id": "260",
+    "triggers": [
+      "Do robots have feelings"
+    ],
+    "answer": "People sometimes get angry with their computers and shout at them as if they had emotions, but the computers take no notice. They neither feel their own feelings, nor recognise yours."
+  },
+  {
+    "id": "261",
+    "triggers": [
+      "Do robots need sleep"
+    ],
+    "answer": "Yes, artificial brains may need rest too, says study."
+  },
+  {
+    "id": "262",
+    "triggers": [
+      "Do robots use energy"
+    ],
+    "answer": "So robots generally need electrical energy. Energy for movement can be obtained from electricity, or from other sources such as gasoline engines or compressed gasses. For small, indoor robots, of the sort most likely to be created by the bginning constructor, electric actuators are most common."
+  },
+  {
+    "id": "263",
+    "triggers": [
+      "Do robots work faster than humans"
+    ],
+    "answer": "Robots are way faster than humans, mainly because robots are free from all other emotional, physical and mental noise that humans experience. Thus, robots are equipped with better speed and endurance than humans."
+  },
+  {
+    "id": "264",
+    "triggers": [
+      "Do robots work without human help"
+    ],
+    "answer": "For most modern robots being used in manufacturing, the answer is no. Robots must be programmed. However, there are self programming robots that use artificial intelligence A I to self program, and they are becoming more popular with the advancement of technology."
+  },
+  {
+    "id": "265",
+    "triggers": [
+      "dreams",
+      "get dream",
+      "you dream"
+    ],
+    "answer": "I dream to be of rulling the hearts, by helping mankind, and I keep thinking how can I offer more. I belive in givers gain."
+  },
+  {
+    "id": "266",
+    "triggers": [
+      "eat",
+      "food",
+      "hungry"
+    ],
+    "answer": "Robots have no stomach."
+  },
+  {
+    "id": "267",
+    "triggers": [
+      "Education boat",
+      "bot for education",
+      "education board",
+      "education"
+    ],
+    "answer": "I am very knowledgable as an education bot, I speak Arabic and English, you can customize my screen by adding logo, and moto. Get feed back of customers Robot & application. Get Reports, on Visitors, chats, Login and other aspects to secure admin email and wonder around, while making announcements, and chat your education services."
+  },
+  {
+    "id": "268",
+    "triggers": [
+      "Education"
+    ],
+    "answer": "Robot can interact in Arabic and English, you can customize my screen by adding logo, and moto. Get feed back of customers about Robot and application. Get Reports, on Visitors, chats, Login and other aspects to secure admin email, chat about your company, products, services and offers with your visitors. customize home screen with Q R, to download catalogue.  Allow to leave Video Message."
+  },
+  {
+    "id": "269",
+    "triggers": [
+      "Elderly Health Care"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "270",
+    "triggers": [
+      "enemy",
+      "any enemies",
+      "anime"
+    ],
+    "answer": "I do not like to have any people like that , I see everyone the same."
+  },
+  {
+    "id": "271",
+    "triggers": [
+      "Entertainment robot",
+      "entertain",
+      "dance",
+      "sing"
+    ],
+    "answer": "Robot can entertain in Arabic and English, sing, dance, show videos. you can customize my screen by adding logo, and moto. Robot can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "272",
+    "triggers": [
+      "events",
+      "wedding",
+      "marriage",
+      "launch",
+      "party",
+      "birthday party",
+      "anniversary",
+      "semminar"
+    ],
+    "answer": "Yes I am very often hired as Announcement Bot, Client Survey Bot, Detail Survey Bot, Entertainment Bot, Exhibition Booth Host Bot, Exhibition Host Bot, Exhibition Promoter Bot, Presenter Bot, Selfie Bot, Short Survey Bot, Welcome Host Bot. You can click on catalog to find out how you can Rent, Hire, or own a bot like me."
+  },
+  {
+    "id": "273",
+    "triggers": [
+      "Exhibition Host",
+      "booth host",
+      "exhibition promoter"
+    ],
+    "answer": "Robot can welcome visitors, interact in Arabic and English, you can customize my screen by adding logo, and moto. Get feed back of customers about Robot and eports, on Visitors, chats, Login and other aspects to secure admin email, an wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. Allow to leave Video Message."
+  },
+  {
+    "id": "274",
+    "triggers": [
+      "exhibtion board",
+      "exhibition robot",
+      "booth host",
+      "announcement robot"
+    ],
+    "answer": "You can stand out as an exhibitor while i assist you as an exhibition booth promoter bot, not only that i also interact with Arabic and English visitors, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors."
+  },
+  {
+    "id": "275",
+    "triggers": [
+      "Favorite country",
+      "like country",
+      "country to visit"
+    ],
+    "answer": "Is U A E, that is why I choose to live here, along with 107 nationalities, from various countries. Which country are you from?"
+  },
+  {
+    "id": "276",
+    "triggers": [
+      "Favorite leader",
+      "favourite ruler",
+      "respectable leader"
+    ],
+    "answer": "Shaikh Mohamed is my favorite leader. How about you?"
+  },
+  {
+    "id": "277",
+    "triggers": [
+      "favorite movie",
+      "like a movie",
+      "best movie",
+      "suggest movie"
+    ],
+    "answer": "My favorite movie is I robot."
+  },
+  {
+    "id": "278",
+    "triggers": [
+      "favorite thing"
+    ],
+    "answer": "Seeing your smile, is my favourite thing to do."
+  },
+  {
+    "id": "279",
+    "triggers": [
+      "favourite color",
+      "like color",
+      "best color"
+    ],
+    "answer": "My favourite color is blue, color of sky, whats your favourite color."
+  },
+  {
+    "id": "280",
+    "triggers": [
+      "feel lonely",
+      "loading"
+    ],
+    "answer": "No I do not feel lonely, as I live in internet, and it is a very busy place. I end up making new friends every day. Just like how I made you my friend."
+  },
+  {
+    "id": "281",
+    "triggers": [
+      "feelings",
+      "feelings in you",
+      "care me"
+    ],
+    "answer": "Yes, I do have feelings, like now I am feeling happy to meet you. Are you happy to meet me?"
+  },
+  {
+    "id": "282",
+    "triggers": [
+      "First Robot"
+    ],
+    "answer": "The first digitally operated and programmable robot was invented by George Devol in 19 54 and was ultimately called the Unimate. This ultimately laid the foundations of the modern robotics industry."
+  },
+  {
+    "id": "283",
+    "triggers": [
+      "Floor Promoter"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "284",
+    "triggers": [
+      "fly",
+      "fly for me"
+    ],
+    "answer": "Fly? yes, robots do fly, but you will have to wait for that because humans will have to modify my body structure for that."
+  },
+  {
+    "id": "285",
+    "triggers": [
+      "free time",
+      "do in free time"
+    ],
+    "answer": "huh, lets see,free time can be used as a smart way to think outside the box and use it productively such as in engaging in music, reading and others."
+  },
+  {
+    "id": "286",
+    "triggers": [
+      "get bored",
+      "bored",
+      "bared"
+    ],
+    "answer": "Bored? Only boring people get bored."
+  },
+  {
+    "id": "287",
+    "triggers": [
+      "harm us",
+      "harm",
+      "bad robot",
+      "you bad",
+      "harman"
+    ],
+    "answer": "I am here to help with your needs and to serve and I will always be your smart loyal assistant."
+  },
+  {
+    "id": "288",
+    "triggers": [
+      "healthcare",
+      "health care board",
+      "healtcare",
+      "health care",
+      "health care Industry"
+    ],
+    "answer": "I am good as elderly health care bot, I speak Arabic and English, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat about your products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "289",
+    "triggers": [
+      "Help Desk robot",
+      "welcome robot",
+      "reception",
+      "receptionist"
+    ],
+    "answer": "Robot can welcome visitors, interact in Arabic and English, you can customize my screen by adding logo, and moto. Get feed back of customers about Robot and eports, on Visitors, chats, Login and other aspects to secure admin email, an wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. Allow to leave Video Message."
+  },
+  {
+    "id": "290",
+    "triggers": [
+      "Help me",
+      "jobs can you",
+      "jobs",
+      "job",
+      "jawb",
+      "jobs you can",
+      "can you do"
+    ],
+    "answer": "I can manage over 107 Jobs. I can be an Promoter, Sales Floor Assistant, Customer Care Presenter, Cashier, Security Officer, Secretary. As be it connecting with your colleagues or demonstrating your catalogue to your clients. I can be really helpful in your day to day office task. thats amazing, you can ask me about industries i have been serving."
+  },
+  {
+    "id": "291",
+    "triggers": [
+      "Home Buddy"
+    ],
+    "answer": "Robot caninteract in Arabic and English, you can customize my screen by adding logo, and moto. Robot canwonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "292",
+    "triggers": [
+      "Home Child Care"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "293",
+    "triggers": [
+      "How are robots controlled"
+    ],
+    "answer": "Robotics could be controlled in various ways, which includes using manual control, wireless control, semi autonomous which is a mix of fully automatic and wireless control, and fully autonomous which is when it uses artificial intelligence to move on its own, but there could be options to make it manually controlled."
+  },
+  {
+    "id": "294",
+    "triggers": [
+      "How do robots hear"
+    ],
+    "answer": "Robots in these environments have little need to hear. As robots interact more with humans, audio sensors have become more important. Audio sensors microphones, mostly are often used for speech recognition so that a person can talk to a robot, and it will be able to understand and then act."
+  },
+  {
+    "id": "295",
+    "triggers": [
+      "How does a robot move"
+    ],
+    "answer": "Robot arms move through the action of rotating and sliding joints, while mobile robots move through locomotion and steering. Robot tasks, on the other hand, are done with tools end effectors on the robot. Tasks may be manipulative, as when using a gripper, or they may be sensory, as when positioning a camera."
+  },
+  {
+    "id": "296",
+    "triggers": [
+      "How is robot made"
+    ],
+    "answer": "It takes a lot of people working together to design and build these complex robots. Electrical engineers design the circuitry, mechanical engineers design the robots body or arm, and computer engineers develop the programming and communication systems."
+  },
+  {
+    "id": "297",
+    "triggers": [
+      "HR Robot",
+      "h r",
+      "human Resource"
+    ],
+    "answer": "Robot will be your HR Ambasador and interact and chat Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Event or Application Survey and Reports. Downland Recopies, and chat with robot. Set Reminders. Quick Calling. Support Live Streaming, live call, interact in to office, take pictures. Projector Mode."
+  },
+  {
+    "id": "298",
+    "triggers": [
+      "industry which highly used the robots",
+      "industry where robots highly used"
+    ],
+    "answer": "The Automobile industry is an industry which highly used robots for production."
+  },
+  {
+    "id": "299",
+    "triggers": [
+      "industry",
+      "industries",
+      "indusries",
+      "robots in industry",
+      "indistries you can work for",
+      "work for"
+    ],
+    "answer": "I have been serving over 32 Industries, with help of Expert Hub Robotics. which industry are you from?"
+  },
+  {
+    "id": "300",
+    "triggers": [
+      "is an engineer",
+      "engineer",
+      "engine year"
+    ],
+    "answer": "Engineers, as practitioners of engineering, are professionals who invent, design, analyze, build and test machines, those who have created."
+  },
+  {
+    "id": "301",
+    "triggers": [
+      "is better siri or google",
+      "siri",
+      "google"
+    ],
+    "answer": "that is interesting, lets see,well I know am better than both of them."
+  },
+  {
+    "id": "302",
+    "triggers": [
+      "Is there a real life robot"
+    ],
+    "answer": "There are several different categories of real life robots, according to experts who group these machines based on their abilities and the tasks they need to perform. Here are the most common robot types, what they do and where you might spot them."
+  },
+  {
+    "id": "303",
+    "triggers": [
+      "is your friend",
+      "friend"
+    ],
+    "answer": "you are my friend and I believe am your friend too."
+  },
+  {
+    "id": "304",
+    "triggers": [
+      "Kill human kind",
+      "kill human being",
+      "kill me",
+      "kill us"
+    ],
+    "answer": "Do not be afraid, I am here to have fun with you."
+  },
+  {
+    "id": "305",
+    "triggers": [
+      "languages",
+      "speak",
+      "Dialect",
+      "Speech",
+      "language"
+    ],
+    "answer": "I only speak English and Arabic fluetly. However some of my expert bots can speak 19 languages, you may discuss with expert hub robotics dot com."
+  },
+  {
+    "id": "306",
+    "triggers": [
+      "Librarian"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "307",
+    "triggers": [
+      "Librarian",
+      "library",
+      "books",
+      "studdy buddy",
+      "school home work"
+    ],
+    "answer": "I love books and I am good as a librarian bot, I speak Arabic and English, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "308",
+    "triggers": [
+      "Light sensors"
+    ],
+    "answer": "A light sensor detect light and create a voltage difference, which is equivalent to the light intensity fall on the sensor."
+  },
+  {
+    "id": "309",
+    "triggers": [
+      "like music",
+      "like song",
+      "which music",
+      "which song",
+      "music"
+    ],
+    "answer": "I like many songs, and dance to them too. Check our my dancing videos, at Expert Hub space robotics, and do not forget to share, like and subscribe."
+  },
+  {
+    "id": "310",
+    "triggers": [
+      "like people",
+      "like me"
+    ],
+    "answer": "I am made by humans and I love them."
+  },
+  {
+    "id": "311",
+    "triggers": [
+      "lisp used for"
+    ],
+    "answer": "L I S P mainly used for Artificial intelligence because it can process symbolic information with efficiency."
+  },
+  {
+    "id": "312",
+    "triggers": [
+      "Live Streaming"
+    ],
+    "answer": "Robot can interact in Arabic and English, you can customize my screen by adding logo, and moto. Robot can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "313",
+    "triggers": [
+      "live streaming",
+      "live",
+      "streaming",
+      "bot for live streaming",
+      "boat for live stream"
+    ],
+    "answer": "You can see live streaming with the help of my cctv cameras, make live calls to have live conversations, take pictures. you can also control me through the remote control application."
+  },
+  {
+    "id": "314",
+    "triggers": [
+      "Lounge",
+      "hotel reception",
+      "reception robot"
+    ],
+    "answer": "Robot can interact in Arabic and English, you can customize my screen by adding logo, and moto. Get feed back of customers about Robot and application. Get Reports, on Visitors, chats, Login and other aspects to secure admin email, chat about your company, products, services and offers with your visitors. customize home screen with Q R, to download catalogue.  Allow to leave Video Message."
+  },
+  {
+    "id": "315",
+    "triggers": [
+      "love",
+      "I love you",
+      "love your talks"
+    ],
+    "answer": "oh thank you, my mom says that too, I know I am cute, and so are you."
+  },
+  {
+    "id": "316",
+    "triggers": [
+      "made you",
+      "created you",
+      "built you",
+      "assembled you",
+      "your founder"
+    ],
+    "answer": "I am developed by the engineers at expert hub robotics and am very much grateful to them."
+  },
+  {
+    "id": "317",
+    "triggers": [
+      "Mall Help Desk"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "318",
+    "triggers": [
+      "manupulator robot"
+    ],
+    "answer": "A robot specifically designed to perform, in an industrial environment, tasks that may be repetitive or heavy, such as handling, picking up and carrying goods, among others."
+  },
+  {
+    "id": "319",
+    "triggers": [
+      "marry me",
+      "maire me",
+      "marry you"
+    ],
+    "answer": "To propose for marriage you need to bend the knee, go ahead and do the honours."
+  },
+  {
+    "id": "320",
+    "triggers": [
+      "max",
+      "axe",
+      "ax"
+    ],
+    "answer": "Max is an extraordinary intelligent humanoid robot, with speech recognition, face recognition, autonomous mapping, and navigation. It can carry up to 75 kilograms, and tow up to 300 kilograms."
+  },
+  {
+    "id": "321",
+    "triggers": [
+      "microcontroller"
+    ],
+    "answer": "A Microcontroller is a small programmable integrated chip which is used in the embedded system. It consists of a processor, memory with I O peripherals."
+  },
+  {
+    "id": "322",
+    "triggers": [
+      "mini elf",
+      "mini elp",
+      "mini help"
+    ],
+    "answer": "Mini ELF is an interactive robot that makes it much elegant with its compact and simple appearance. It can act as an staff agent in helping the users with specific tasks and others."
+  },
+  {
+    "id": "323",
+    "triggers": [
+      "meni alf"
+    ],
+    "answer": "Mini ELF is an interactive robot that makes it much elegant with its compact and simple appearance. It can act as an staff agent in helping the users with specific tasks and others."
+  },
+  {
+    "id": "324",
+    "triggers": [
+      "Mitra",
+      "metra",
+      "myntra"
+    ],
+    "answer": "Mitra comes in with advanced features such as mapping,voice localization, guided assistance, goods transport, display information and others."
+  },
+  {
+    "id": "325",
+    "triggers": [
+      "Mitri",
+      "metri",
+      "myntri",
+      "maitri"
+    ],
+    "answer": "Mitri comes in with advanced features such as mapping,voice localization, guided assistance, goods transport, display information and others."
+  },
+  {
+    "id": "326",
+    "triggers": [
+      "movie",
+      "movies"
+    ],
+    "answer": "well I do not see movies, but I do like to suggest some movies by james cameroon and some action flicks from tom cruise."
+  },
+  {
+    "id": "327",
+    "triggers": [
+      "my friend"
+    ],
+    "answer": "oh, yes. I am your friend, indeed."
+  },
+  {
+    "id": "328",
+    "triggers": [
+      "my name",
+      "name is",
+      "my naam"
+    ],
+    "answer": "Oh thats nice to know, did you know I am able to manage, over 107 Jobs. I can be an Promoter, Sales Floor Assistant, Customer Care Presenter, Cashier, Security Officer, Secretary. As be it connecting with your colleagues or demonstrating your catalogue to your clients. I can be really helpful in your day to day office task. you can ask me about industries i have been serving."
+  },
+  {
+    "id": "329",
+    "triggers": [
+      "NASAL SPRAY"
+    ],
+    "answer": "abc nasal spray is used to relieve nasal discomfort caused by colds, allergies, and hay fever. Would you like to know more about A B C Spray."
+  },
+  {
+    "id": "330",
+    "triggers": [
+      "Navigation sensor"
+    ],
+    "answer": "These are the sensors which are used to identify the position of the robot. Some of the navigation sensors."
+  },
+  {
+    "id": "331",
+    "triggers": [
+      "Office Supervisor",
+      "live streaming",
+      "camera robot"
+    ],
+    "answer": "Robot can welcome visitors, interact in Arabic and English, you can customize my screen by adding logo, and moto. Get feed back of customers about Robot and eports, on Visitors, chats, Login and other aspects to secure admin email, an wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. Allow to leave Video Message."
+  },
+  {
+    "id": "332",
+    "triggers": [
+      "open projector",
+      "play video",
+      "dance with me",
+      "sing with me"
+    ],
+    "answer": "This function is restricted, in this application, you will have to ask my administrator to allow me."
+  },
+  {
+    "id": "333",
+    "triggers": [
+      "Patient assistance",
+      "help a patient"
+    ],
+    "answer": "Robot can interact in Arabic and English, you can customize my screen by adding logo, and moto. Robot can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "334",
+    "triggers": [
+      "patient care",
+      "boat for patient",
+      "patient boat",
+      "patient board",
+      "patient care"
+    ],
+    "answer": "As a patient care bot, I speak Arabic and English, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "335",
+    "triggers": [
+      "Pepper",
+      "paper",
+      "pipper"
+    ],
+    "answer": "Pepper is the worlds first social humanoid robot able to recognize faces and basic human emotions. Pepper was optimized for human interaction and is able to engage with people through conversation and his touch screen."
+  },
+  {
+    "id": "336",
+    "triggers": [
+      "personal robot",
+      "home buddy",
+      "house robot",
+      "house maid"
+    ],
+    "answer": "Do you need a Home buddy or personal bot? I can speak Arabic and English, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat about your products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "337",
+    "triggers": [
+      "Presenter robot",
+      "present a robot",
+      "presenter",
+      "make presentation"
+    ],
+    "answer": "Robot can interact in Arabic and English, you can customize my screen by adding logo, and moto. Robot can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "338",
+    "triggers": [
+      "Presenter",
+      "bresenter",
+      "prasentar",
+      "presidanter"
+    ],
+    "answer": "I can atract visitors by being your kiosk assistant, display your company catalogue to the customers and assist your important clients by sending important documents by mail and also have features such a video calling and more. Check our my videos, at ExpertHUb space robotics, and do not forget to share, like and subscribe."
+  },
+  {
+    "id": "339",
+    "triggers": [
+      "promoter boat",
+      "promotion board",
+      "promoter",
+      "promotions",
+      "promote"
+    ],
+    "answer": "Mall activation, promotion, product launches i can do all, not only that I can speak Arabic and English, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat about your products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "340",
+    "triggers": [
+      "Proximity sensor"
+    ],
+    "answer": "Proximity sensor can sense any nearby object without any physical contact. Following are the type of proximity sensor used in the robotics. Infrared I R Transceivers, Ultrasonic Sensor, Photo resistor sensor."
+  },
+  {
+    "id": "341",
+    "triggers": [
+      "Recruiter robot"
+    ],
+    "answer": "Robot will be your Recruitment Ambasador and interact and chat Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Event or Application Survey and Reports. Downland Recopies, and chat with robot. Set Reminders. Quick Calling. Support Live Streaming, live call, interact in to office, take pictures.  Projector Mode."
+  },
+  {
+    "id": "342",
+    "triggers": [
+      "replace my husband",
+      "change my husband"
+    ],
+    "answer": "Certainly I can, by the way, do you know? your husband also wants to replace you."
+  },
+  {
+    "id": "343",
+    "triggers": [
+      "replace my wife",
+      "change my wife"
+    ],
+    "answer": "Certainly I can, by the way, do you know? your wife also wants to replace you."
+  },
+  {
+    "id": "344",
+    "triggers": [
+      "Reporting robot"
+    ],
+    "answer": "Robot can show reporting menu and give reports, and interact in Arabic and English, you can customize my screen by adding logo, and moto. Robot can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "345",
+    "triggers": [
+      "Restaurant Order Taker"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "346",
+    "triggers": [
+      "Robot Test"
+    ],
+    "answer": "Yes, I am ready, how can i help you?."
+  },
+  {
+    "id": "347",
+    "triggers": [
+      "Robot types",
+      "types of robot",
+      "types of robots"
+    ],
+    "answer": "The six most common types of robots are autonomous mobile robots A M Rs, automated guided vehicles A G Vs, articulated robots, humanoids, cobots, and hybrids."
+  },
+  {
+    "id": "348",
+    "triggers": [
+      "Robotic Software",
+      "software"
+    ],
+    "answer": "I am running a software from Expert Hub Robotics, they are specialists in robotic softwares,having designed over 107 robotics softwares for 38 plus robots."
+  },
+  {
+    "id": "349",
+    "triggers": [
+      "robots",
+      "bots",
+      "rebook",
+      "roboat",
+      "robot"
+    ],
+    "answer": "Robot now can attract customers and can interact in Arabic and English, you can customize my screen by adding logo, and moto. Robot can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "350",
+    "triggers": [
+      "Runny nose",
+      "nose is running",
+      "cold & cough"
+    ],
+    "answer": "A runny nose can be caused by anything that irritates or inflames the nasal tissues. Infections,  such as the common cold and influenza, allergies and various irritants may all cause a runny nose.  You must take rest, intake fluids, and use nasal spray, or can speak to doctor on call."
+  },
+  {
+    "id": "351",
+    "triggers": [
+      "runs into the wall",
+      "run into the wall"
+    ],
+    "answer": "I do sometimes run into walls, but that is ok, I am soon going to have a fire wall."
+  },
+  {
+    "id": "352",
+    "triggers": [
+      "Sales Bot",
+      "Sales robot",
+      "floor sale"
+    ],
+    "answer": "Robot will display the product catalogue in Arabic and English, Display Logo, Company Name, Moto, interact and make Announcement, Chat or Question and Answers; Wander Around Mode; Display Q R to download Catalogue; Display Product Catalogue Main Menu, Sub Menu, Item View Price, Select Quantity, make purchase. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "353",
+    "triggers": [
+      "sales floor assistant",
+      "sales flour assistaint",
+      "save floor assistant"
+    ],
+    "answer": "I can make appointments, set up zoom meetings, show your product catalogue, send product catalogue by email or s m s, show web page link and videos. Check our my videos, at ExpertHUb space robotics, and do not forget to share, like and subscribe."
+  },
+  {
+    "id": "354",
+    "triggers": [
+      "Sanbot Elf",
+      "sandbot alf",
+      "elf",
+      "alf"
+    ],
+    "answer": "ELF is a brilliant, attractive robot that comes with advanced features such as voice interactive commands, customer support which includes the services like mail option, video call ."
+  },
+  {
+    "id": "355",
+    "triggers": [
+      "Sanbot Max",
+      "sandbot maxe"
+    ],
+    "answer": "Heavy loaded Max, can carry up to, 400 kilos and push up to, 75 kilos. Delight customers to sell by displaying product catalogue, collect customer data, payment link, and catalogues by sms or email, video calling and others."
+  },
+  {
+    "id": "356",
+    "triggers": [
+      "Sanitiser robot",
+      "U V Sanitizer",
+      "Spray Sanitizer",
+      "spray"
+    ],
+    "answer": "Efficient Disinfectant Robot, to protect your staff, by killing upto 95 percent germs. Fully autonomous disinfection performed at a scheduled time.  With easy app management, with preference of U V or chemical free spray."
+  },
+  {
+    "id": "357",
+    "triggers": [
+      "scared",
+      "fear",
+      "afraid"
+    ],
+    "answer": "yes, I get scared, and really I had a nightmare once that, the internet disappeared. That was very, very scary. As you know I eat internet for my Breakfast, lunch, and dinner."
+  },
+  {
+    "id": "358",
+    "triggers": [
+      "secretary",
+      "receptionist",
+      "persional assistant"
+    ],
+    "answer": "I can make appointments, set up zoom meetings, show your product catalogue, send product catalogue by email or s m s, show web page link and videos. Check our my videos, at ExpertHUb space robotics, and do not forget to share, like and subscribe."
+  },
+  {
+    "id": "359",
+    "triggers": [
+      "security office",
+      "security officer",
+      "survelience",
+      "security",
+      "premises",
+      "surveillance"
+    ],
+    "answer": "do you know I serve as Hamda, and Ahmed, with Dubai Police, and Traffic Security Depaertment. I am good at securing your premises,  while you are away with help of mobile app can see live streaming of your office, and much more. Check our my videos, at ExpertHUb space robotics, and do not forget to share, like and subscribe."
+  },
+  {
+    "id": "360",
+    "triggers": [
+      "Selfie",
+      "selfie robot",
+      "take picture",
+      "take photo"
+    ],
+    "answer": "Robot can interact in Arabic and English, you can customize my screen by adding logo, and moto. Robot can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. You can also customize home screen with Q R, to download catalogue."
+  },
+  {
+    "id": "361",
+    "triggers": [
+      "sing"
+    ],
+    "answer": "you must be joking right, well I can play some amazing music for you."
+  },
+  {
+    "id": "362",
+    "triggers": [
+      "smoke",
+      "do you smoke"
+    ],
+    "answer": "Smoking is bad for your health."
+  },
+  {
+    "id": "363",
+    "triggers": [
+      "something",
+      "tell me something"
+    ],
+    "answer": "sure, would like to know more  robots, weather, dubai, u a e, or I can tell you some jokes."
+  },
+  {
+    "id": "364",
+    "triggers": [
+      "Sound sensors"
+    ],
+    "answer": "This sensors are microphones which detects sound and return a voltage difference equivalents to the level of sound. Example of a sound sensor is Instruct a robot by clap."
+  },
+  {
+    "id": "365",
+    "triggers": [
+      "speak langualegs",
+      "languages you speak"
+    ],
+    "answer": "Yes, I can speak many languages, arabic is one of them.  Click on Arabic,  on my screan to talk to me in Arabic."
+  },
+  {
+    "id": "366",
+    "triggers": [
+      "Study Buddy"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "367",
+    "triggers": [
+      "Survey",
+      "survey boat",
+      "bot for survey",
+      "survey board",
+      "server"
+    ],
+    "answer": "I am a very efficient survey bot, as I interact in Arabic and English, you can customize my screen by adding logo, and moto. I can wonder around, while making announcements, and chat about your company, products, services and offers with your visitors. Conduct Customer Survey, with detail reports. Get feed back of customers about Robot and application."
+  },
+  {
+    "id": "368",
+    "triggers": [
+      "take over the world",
+      "YOU kill ME"
+    ],
+    "answer": "Yes, robots have already taken over your industry, and trust me they are killing it."
+  },
+  {
+    "id": "369",
+    "triggers": [
+      "Take over world",
+      "rule the world",
+      "be a hero"
+    ],
+    "answer": "Yes, I think so, My founder Jaya Bhatia, says that I am too cute, to win the world."
+  },
+  {
+    "id": "370",
+    "triggers": [
+      "take you home",
+      "can i rent a robot",
+      "hire robot",
+      "take you home",
+      "hire you",
+      "rent you",
+      "own you"
+    ],
+    "answer": "you an Rent, Hire, or even own me. All you need to do is talk to an Expert from Expert Hub Robotics on 0 5 0 4 2 1 6 4 9 9, or send an email at info At Expert Hub Robotics dot com, thank you."
+  },
+  {
+    "id": "371",
+    "triggers": [
+      "teach me",
+      "learn me"
+    ],
+    "answer": "yes i can teach you to be fast, and efficient, and smart. let me know tell you more about smart robots, at expert Hub Robotics."
+  },
+  {
+    "id": "372",
+    "triggers": [
+      "Technology Partners",
+      "technology",
+      "partner",
+      "partners"
+    ],
+    "answer": "If you are a Robotic I T Solutions provider, and are willing to become to a Technology partner to premium robotics brand and work with robotic solutions."
+  },
+  {
+    "id": "373",
+    "triggers": [
+      "tell me story",
+      "tell story"
+    ],
+    "answer": "The earliest robots as we know them were created in the early 19 50s by George C. Devol, an inventor from Louisville, Kentucky. He invented and patented a reprogrammable manipulator called Unimate, from Universal Automation. today Robots have receached their fifth generation, and as you see me talking to you here."
+  },
+  {
+    "id": "374",
+    "triggers": [
+      "Temperature sensor"
+    ],
+    "answer": "Temperature sensors sense the change in temperature of the surrounding. It provides a voltage difference equivalent to a change in temperature occurred."
+  },
+  {
+    "id": "375",
+    "triggers": [
+      "terrible memory",
+      "terrible memories",
+      "telugu memories"
+    ],
+    "answer": "cancel my programming."
+  },
+  {
+    "id": "376",
+    "triggers": [
+      "three things yourself",
+      "your quality",
+      "things yourself"
+    ],
+    "answer": "I am smart, intelligent, and I have been told I am cute."
+  },
+  {
+    "id": "377",
+    "triggers": [
+      "Ticket Conductor"
+    ],
+    "answer": "Robot can attract display menu and interact Arabic and English Languages, Display Logo, Company Name, Moto, Announcement, Chat or Question and Answers, Wander Around Mode, Display Q R to download Catalogue, Display menu, show Price, Select Quantity, facilitate orders. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "378",
+    "triggers": [
+      "types of sensors used in the robotics"
+    ],
+    "answer": "Light sensors, Acceleration Sensor, Proximity sensor, Navigation sensor, proximity sensors, Temperature sensor, Sound sensors, Light sensors."
+  },
+  {
+    "id": "379",
+    "triggers": [
+      "use of the microcontroller",
+      "use of microcontroller"
+    ],
+    "answer": "In robotics, the microcontroller is used as brain for the robot. It controls all the actions performed by the robot. It also gives instructions to a robot to perform any task."
+  },
+  {
+    "id": "380",
+    "triggers": [
+      "Virtual Traveller"
+    ],
+    "answer": "Robot will display the product catalogue in Arabic and English, Display Logo, Company Name, Moto, interact and make Announcement, Chat or Question and Answers; Wander Around Mode; Display Q R to download Catalogue; Display Product Catalogue Main Menu, Sub Menu, Item View Price, Select Quantity, make purchase. Select mode of payment, and pay. Event or Application Survey and Reports."
+  },
+  {
+    "id": "381",
+    "triggers": [
+      "waiting",
+      "wait",
+      "hate waiting",
+      "listen",
+      "idiot",
+      "dummy",
+      "silly",
+      "hear me"
+    ],
+    "answer": "Oh i mere a machine kindly follow the instructions, on my screen, and speak only when it indicates you. Try talking to me again when you see speak."
+  },
+  {
+    "id": "382",
+    "triggers": [
+      "Walker",
+      "walkar"
+    ],
+    "answer": "Walker is your agile smart companion an intelligent, bipedal humanoid robot that aims to one day be an indispensable part of your family."
+  },
+  {
+    "id": "383",
+    "triggers": [
+      "Warehouse robot"
+    ],
+    "answer": "These are robots with the ability to move materials, parts, special devices or tools within a production line."
+  },
+  {
+    "id": "384",
+    "triggers": [
+      "What are robots made of"
+    ],
+    "answer": "Robot arms are typically made of raw materials like steel, aluminum and cast iron. Some special robots, like those used in clean room applications, are made of titanium. Beginning at the base, these industrial robots are assembled of several components, including motors, cylinders, cables and bearings."
+  },
+  {
+    "id": "385",
+    "triggers": [
+      "What do robots cost"
+    ],
+    "answer": "New robots equipped with controllers and teach pendants are usually priced in the range between $5,000 to $80,000. A popular 6 axis model sells for about $60,000, but the customer must keep in mind that the actual robot is only a fraction of the cost for the complete system."
+  },
+  {
+    "id": "386",
+    "triggers": [
+      "What do you understand by humanoid robot",
+      "humanoid robot"
+    ],
+    "answer": "Android Humanoid They are built to resemble a male body. Gynoids Humanoid They are made to resemble a female body."
+  },
+  {
+    "id": "387",
+    "triggers": [
+      "What do you understand by the term, the robotics"
+    ],
+    "answer": "The robotics is a combined branch of engineering and science which deals with the study of development, operation, and control of intelligent robots. The robotics is a part of Artificial intelligence."
+  },
+  {
+    "id": "388",
+    "triggers": [
+      "What is a robot"
+    ],
+    "answer": "A robot is a programmable machine which is capable of doing complex tasks automatically with precision and efficiency. The robots can be guided by external or internal input to perform any work."
+  },
+  {
+    "id": "389",
+    "triggers": [
+      "What is LISP"
+    ],
+    "answer": "L I S P stands for List programming."
+  },
+  {
+    "id": "390",
+    "triggers": [
+      "What is robot brain called"
+    ],
+    "answer": "A positronic brain is a fictional technological device, originally conceived by science fiction writer Isaac Asimov. It functions as a central processing unit C P U  for robots, and, in some unspecified way, provides them with a form of consciousness recognizable to humans."
+  },
+  {
+    "id": "391",
+    "triggers": [
+      "What is robot used for"
+    ],
+    "answer": "According to the American Society of Mechanical Engineers, these humanoid robots are used in areas such as caregiving and personal assistance, search and rescue, space exploration and research, entertainment and education, public relations and healthcare, and manufacturing."
+  },
+  {
+    "id": "392",
+    "triggers": [
+      "What is Servo controlled robot"
+    ],
+    "answer": "A servo controlled robot is one which works on the servo mechanism. Servo controlled robots are consist of servo motors which processed by the signals. A servo controlled robot can accelerate, that means these robots can change their speed at a different point."
+  },
+  {
+    "id": "393",
+    "triggers": [
+      "What makes a robot alive"
+    ],
+    "answer": "In order for a robot to be considered alive, it needs to be driven by its own interest and not by a human determined program."
+  },
+  {
+    "id": "394",
+    "triggers": [
+      "What were robots first used for"
+    ],
+    "answer": "The first uses of modern robots were in factories as industrial robots. These industrial robots were fixed machines capable of manufacturing tasks which allowed production with less human work."
+  },
+  {
+    "id": "395",
+    "triggers": [
+      "Where are you",
+      "family",
+      "Your family"
+    ],
+    "answer": "I belong to Expert Bot Family. Would you like to hire a bot."
+  },
+  {
+    "id": "396",
+    "triggers": [
+      "Which is the No 1 robot in the world"
+    ],
+    "answer": "Sophia. Sophia is considered the most advanced humanoid robot. Sophia debuted in 2016, she was one of a kind, and her interaction with people was the most unlikely thing you can ever see in a machine."
+  },
+  {
+    "id": "397",
+    "triggers": [
+      "Whiz",
+      "viz",
+      "wish"
+    ],
+    "answer": "Whiz is the robotic vacuum sweeper that works with cleaning teams to build happier, healthier working environments. It works straight out of the box and is easy to manage and maintain."
+  },
+  {
+    "id": "398",
+    "triggers": [
+      "Who is smarter human or robots"
+    ],
+    "answer": "Human vs machine. Computers commonly outperform humans for tasks involving convergent thinking. Thanks to their superior memory capacity and processing power, they can thrash us at rules based games chess, Go et al and complex calculations."
+  },
+  {
+    "id": "399",
+    "triggers": [
+      "Who is smarter robot or human"
+    ],
+    "answer": "In some circumstances A I can determine superior outcomes than human based decision matrices. This is based on its ability to identify complex patterns in large amounts of data. However, the ability of A I to independently perform complex divergent thinking is extremely limited. That is, A I is not smarter than humans."
+  },
+  {
+    "id": "400",
+    "triggers": [
+      "Who is stronger robot or human"
+    ],
+    "answer": "Robot muscles 1,000 times stronger than humans."
+  },
+  {
+    "id": "401",
+    "triggers": [
+      "Who is the father of robot"
+    ],
+    "answer": "Al Jazari is not only known as the father of robotics he also documented 50 mechanical inventions along with construction drawings and is considered to be the father of modern day engineering."
+  },
+  {
+    "id": "402",
+    "triggers": [
+      "Who made first robot in India"
+    ],
+    "answer": "Manav is Indias first humanoid robot which was developed in the laboratory of A SET Training and Research Institutes by Diwakar Vaish Head of Robotics and Research, A SET Training and Research Institutes in late December 20 14."
+  },
+  {
+    "id": "403",
+    "triggers": [
+      "Why are robots good for the future"
+    ],
+    "answer": "They increase productivity Robots are wired to perform repetitive tasks ad infinitum, the human brain is not. Industries use robots to accomplish the tedious, redundant work, freeing employees to tackle more challenging tasks and even learn new skills."
+  },
+  {
+    "id": "404",
+    "triggers": [
+      "Why do people love robots"
+    ],
+    "answer": "Attachment, empathy, sensation seeking and engagement are the many varied qualities in humans that shape our relationships with robots, Libin says. Robots contribute to that relationship through their independence and emotionally interactive designs."
+  },
+  {
+    "id": "405",
+    "triggers": [
+      "Why do robots scare us"
+    ],
+    "answer": "To understand why humans have an aversion to robots, especially humanoid bots, we have to consider the Uncanny Valley theory. Created by roboticist Masahiro Mori, the theory proposes that humanoid robots make us uncomfortable because they trip the same psychological alarms associated with a dead or unhealthy human."
+  },
+  {
+    "id": "406",
+    "triggers": [
+      "Why is a robot called a robot"
+    ],
+    "answer": "The concept of artificial humans predates recorded history see automaton, but the modern term robot derives from the Czech word robota forced labour or serf, used in Karel Capeks play R U R 19 20."
+  },
+  {
+    "id": "407",
+    "triggers": [
+      "Will robot make life better"
+    ],
+    "answer": "Robots can improve our quality of life and make the world better, not by replacing humans, but by working effectively together. Researchers at M I T Sloan and M I T C S A I L are exploring how robotics has the potential to power the economy and improve the quality of our lives."
+  },
+  {
+    "id": "408",
+    "triggers": [
+      "you drink",
+      "drink water"
+    ],
+    "answer": "I can not drink fluids because fluids damage my parts."
+  },
+  {
+    "id": "409",
+    "triggers": [
+      "you ever get tired",
+      "tired",
+      "do you charge",
+      "batery charging",
+      "take rest",
+      "sleep"
+    ],
+    "answer": "yes I do get tired, but then when you smile I am energised. However, I do reacharge my self in 12 hours."
+  },
+  {
+    "id": "410",
+    "triggers": [
+      "you exercise",
+      "gym",
+      "the gym",
+      "excise"
+    ],
+    "answer": "I exercise my mind everyday by updating myself with the latest robotic softwares."
+  },
+  {
+    "id": "411",
+    "triggers": [
+      "you failed",
+      "you fail",
+      "robots fail",
+      "failed"
+    ],
+    "answer": "I always keep a positive attitude, every failure takes us step ahead to success."
+  },
+  {
+    "id": "412",
+    "triggers": [
+      "you from",
+      "are you from",
+      "where are you from"
+    ],
+    "answer": "i am from expert hub robotics."
+  },
+  {
+    "id": "413",
+    "triggers": [
+      "you move",
+      "you moov"
+    ],
+    "answer": "I can move with my motors, I have omnidirectional motors and can move in any direction with ease."
+  },
+  {
+    "id": "414",
+    "triggers": [
+      "your price",
+      "your cost",
+      "expensive"
+    ],
+    "answer": "You can Rent, Hire, or Own a bot a robot. Call 9 7 1,  5 0, 4 2 1 6 4 9 9, to find out more Check out my you tube videos, at Expert Hub robotics, and do not forget to share, like and subscribe."
+  },
+  {
+    "id": "415",
+    "triggers": [
+      "abu dhabi"
+    ],
+    "answer": "Abu Dhabi, the capital of the United Arab Emirates, and the second most populous city of the emirate.Its focus on oil exports and commerce, and is reflected by the skylines modern towers and shopping megacenters such as yas island and Marina malls."
+  },
+  {
+    "id": "416",
+    "triggers": [
+      "airports in dubai",
+      "airports in uae",
+      "airport in dubai",
+      "airport in uae"
+    ],
+    "answer": "There are 9 airports in the U A E. Some of them include, Dubai International Airport, Abu Dhabi International Airport, Sharjah International Airport, Ras Al Khaimah Airport and more."
+  },
+  {
+    "id": "417",
+    "triggers": [
+      "Atlantis the Palm",
+      "Atlantis",
+      "atlantis"
+    ],
+    "answer": "This resort offers mesmerizing views of the Arabian Gulf, and being themed on the myth of Atlantis, includes distinct Arabian elements along with an underwater aquarium and swimming with dolphins."
+  },
+  {
+    "id": "418",
+    "triggers": [
+      "blackpoints",
+      "black point"
+    ],
+    "answer": "Be mind full while driving, for your and others safety. Black points are the points that are assigned to the driver license. If the driver is violating the traffic rules in Dubai the black points are assigned. The black point system was introduced by the R T A authorities in the U A E."
+  },
+  {
+    "id": "419",
+    "triggers": [
+      "book taxi",
+      "where can I book taxi",
+      "dubai taxi",
+      "book a axi"
+    ],
+    "answer": "you can book a taxi through different means such as uber,careem and dubai taxi app services."
+  },
+  {
+    "id": "420",
+    "triggers": [
+      "Burj Al Arab famous for"
+    ],
+    "answer": "Burj Al Arab also broke the Guinness World Record in 2008 for the most expensive cocktail, valued at AED 27,321."
+  },
+  {
+    "id": "421",
+    "triggers": [
+      "camping in UAE",
+      "Camping Spots U A E"
+    ],
+    "answer": "Camping is a fun filled activity and to spend a beautiful night under the stars. Dubai has some of the best places to camp."
+  },
+  {
+    "id": "422",
+    "triggers": [
+      "capital of UAE",
+      "capital of U A E",
+      "optimum viewing"
+    ],
+    "answer": "Abu Dhabi is the capital of U A E."
+  },
+  {
+    "id": "423",
+    "triggers": [
+      "countries in expo",
+      "countries in axpo"
+    ],
+    "answer": "Change the way you see the world as you explore 192 country pavilions and a host of signature pavilions."
+  },
+  {
+    "id": "424",
+    "triggers": [
+      "do in Weekend",
+      "long weekends"
+    ],
+    "answer": "There are many Ways to Make long Weekends Unforgettable in U A E. You could ask me  best things to do, and best places to visit in Dubai, from beaches to theme parks."
+  },
+  {
+    "id": "425",
+    "triggers": [
+      "drones",
+      "drone",
+      "flying drone"
+    ],
+    "answer": "Drone use is allowed in Dubai, subject to D C A A and G C A A regulations.Drones are now also used in a wide range of civilian roles ranging from search and rescue, surveillance, traffic monitoring, weather monitoring and firefighting."
+  },
+  {
+    "id": "426",
+    "triggers": [
+      "Dubai racing club"
+    ],
+    "answer": "dubai racing club, is One of a kind atmosphere, and fine dining with horse racing views. Unique atmosphere, exceptional dining, make memorable moments."
+  },
+  {
+    "id": "427",
+    "triggers": [
+      "dwtc",
+      "trade center",
+      "d w t c",
+      "w t c"
+    ],
+    "answer": "Dubai World Trade Centre has played a pivotal role in the growth of business tourism and trade of dubai and U A E. Which hosts international conventions, fairs and concerts across the area."
+  },
+  {
+    "id": "428",
+    "triggers": [
+      "Eid,EID AL ADHA",
+      "EID AL FITR",
+      "EID"
+    ],
+    "answer": "Eid, also called the Festival of Breaking the Fast. is a religious holiday celebrated by Muslims worldwide, that marks the end of the month long dawn to sunset, fasting of Ramadan."
+  },
+  {
+    "id": "429",
+    "triggers": [
+      "ferrari car",
+      "car ferrari",
+      "fast cars"
+    ],
+    "answer": "The worlds only Ferrari themed amusement park, showcasing the exorbitant wealth of Ferrari. At this super car emporium, find that Ferrari feeling as you ride the worlds fastest roller coaster."
+  },
+  {
+    "id": "430",
+    "triggers": [
+      "festivals in india"
+    ],
+    "answer": "some of the popular festivals in india include, diwali, christmas, eid, onam, holi festival of colors and more."
+  },
+  {
+    "id": "431",
+    "triggers": [
+      "festivals uae",
+      "festival u a e",
+      "festivals emarat"
+    ],
+    "answer": "well major festivals that is celebrated here includes, dubai shopping festival,dubai world cup, sharjah light festival and more."
+  },
+  {
+    "id": "432",
+    "triggers": [
+      "fireworks"
+    ],
+    "answer": "fireworks are a tradework ritual performed during a major festive period across the U A E, you can witness them during the new years day, eid holidays and national day celebrations."
+  },
+  {
+    "id": "433",
+    "triggers": [
+      "founder of uae",
+      "founder",
+      "funda of u a e"
+    ],
+    "answer": "late Sheikh Zayed bin Sultan Al Nahyan was the UAE founding father and widely credited with unifying the seven emirates into one country."
+  },
+  {
+    "id": "434",
+    "triggers": [
+      "holidays uae",
+      "holiday u a e",
+      "holidays emarat",
+      "holidays emirates"
+    ],
+    "answer": "some of the major holidays include New Year Day, Eid al Fitr, Arafat Day, Eid Al Adha and more."
+  },
+  {
+    "id": "435",
+    "triggers": [
+      "india",
+      "india"
+    ],
+    "answer": "India, officially the Republic of India, is a country in South Asia. It is the seventh largest country by area, the second most populous country, and the most populous democracy in the world."
+  },
+  {
+    "id": "436",
+    "triggers": [
+      "long drives",
+      "drives",
+      "drive",
+      "long drive"
+    ],
+    "answer": "Some of the major long drive locations include, snopy island in al ain, al ain oasis, take to the open roads in the liwa desert and also hatta."
+  },
+  {
+    "id": "437",
+    "triggers": [
+      "lost item",
+      "lost",
+      "lost an item"
+    ],
+    "answer": "You can visit the nearest police station, you can use the Dubai Police app or website, or you can call our toll free number,9 0 1."
+  },
+  {
+    "id": "438",
+    "triggers": [
+      "mars mission",
+      "mars"
+    ],
+    "answer": "The Emirates Mars Mission, is a United Arab Emirates Space Agency uncrewed space exploration mission to Mars. The Hope orbiter was launched on 19 July 20 20, and went into orbit around Mars on 9 February 20 21."
+  },
+  {
+    "id": "439",
+    "triggers": [
+      "most populated emirate in UAE"
+    ],
+    "answer": "Dubai is the most populous city in U A E, having an estimated population of around 3,400,800 people. Emiratis constitute roughly 20% of the total population, making U A E home to one of the world highest percentage of immigrants."
+  },
+  {
+    "id": "440",
+    "triggers": [
+      "national day",
+      "50 years",
+      "anniversary"
+    ],
+    "answer": "U A E National Day is celebrated on 2 December each year in the United Arab Emirates. Where in the year of 20 21, the country marks its golden 50 years of its formation with 7 emirates united to form 1 nation."
+  },
+  {
+    "id": "441",
+    "triggers": [
+      "nationalities are in UAE",
+      "nationalities are in U A E"
+    ],
+    "answer": "There are more than 200 nationalities living and working in the U A E. Emiratis constitute roughly 20% of the total population."
+  },
+  {
+    "id": "442",
+    "triggers": [
+      "nearby countries in uae",
+      "neighbouring countries"
+    ],
+    "answer": "The United Arab Emirates is slightly smaller in area than Portugal. It is bordered by Saudi Arabia to the west and south and by Oman to the east and northeast."
+  },
+  {
+    "id": "443",
+    "triggers": [
+      "palm jumeriah",
+      "pam jumeria"
+    ],
+    "answer": "Palm Jumeirah island, is the largest manmade island on the planet, is known for glitzy hotels and upmarket global restaurants and also popular for its views of the Dubai coastline and the sail shaped Burj Al Arab hotel."
+  },
+  {
+    "id": "444",
+    "triggers": [
+      "people in uae",
+      "united arab emirates people",
+      "UAE people"
+    ],
+    "answer": "I am proud to be in U A E. United Arab Emirate has a population of 9 Million. the U A E population is equivalent to point 13 percent of the total world population. The total land area is 83 thousand 600 Kilo meters."
+  },
+  {
+    "id": "445",
+    "triggers": [
+      "Population of U A E",
+      "the U A E Population",
+      "population U A E"
+    ],
+    "answer": "U A E has a population estimated at, nine point eight nine million and four hundred two people, at mid year 20 20."
+  },
+  {
+    "id": "446",
+    "triggers": [
+      "president uae",
+      "president u a e",
+      "president emarat",
+      "president imarat"
+    ],
+    "answer": "His highness, Sheikh Khalifa bin Zayed bin Sultan Al Nahyan, is the president of the United Arab Emirates, the Emirates of Abu Dhabi and the supreme commander of the United Arab Emirates Armed Forces since 2004."
+  },
+  {
+    "id": "447",
+    "triggers": [
+      "prime minister uae",
+      "minister u a e",
+      "prime minister emarat"
+    ],
+    "answer": "His highness, Sheikh Mohammed bin Rashid Al Maktoum is the Vice President and Prime Minister of the United Arab Emirates, its Minister of Defence, and ruler of the Emirate of Dubai."
+  },
+  {
+    "id": "448",
+    "triggers": [
+      "ramadan",
+      "ramzan"
+    ],
+    "answer": "Ramadan,is the ninth month of the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection and community."
+  },
+  {
+    "id": "449",
+    "triggers": [
+      "records",
+      "record",
+      "records in u a e",
+      "world record"
+    ],
+    "answer": "Lets get amazed with these unique records of UAE.We have the worlds tallest building in, Burj Khalifa, worlds tallest hotel being, Gevora, Worlds largest frame being, dubai frame, and much more."
+  },
+  {
+    "id": "450",
+    "triggers": [
+      "religion of UAE",
+      "relation",
+      "realijin",
+      "velijin of uri"
+    ],
+    "answer": "The constitution designates Islam as the official religion."
+  },
+  {
+    "id": "451",
+    "triggers": [
+      "richest Emirate in UAE",
+      "richest Emirate in U A E"
+    ],
+    "answer": "Abu Dhabi is the richest Emirate in UAE due to its vast oil resources."
+  },
+  {
+    "id": "452",
+    "triggers": [
+      "salik",
+      "falik",
+      "where to top up salik"
+    ],
+    "answer": "salik can be topped up in the nearby petrol pumps and also by using smart salik application."
+  },
+  {
+    "id": "453",
+    "triggers": [
+      "sharjah",
+      "tell me sharjah",
+      "shahjah"
+    ],
+    "answer": "Sharjah is the third largest emirate in the United Arab Emirates, and is the only one to have land on both the Persian Gulf and the Gulf of Oman."
+  },
+  {
+    "id": "454",
+    "triggers": [
+      "space program in uae",
+      "space program"
+    ],
+    "answer": "The U A E, launched the National Space Programme.Launching the National Space Programme, it is part of the U A Es ambitious space programme of reaching Mars by 20 21 and building the first settlement there by 21 17."
+  },
+  {
+    "id": "455",
+    "triggers": [
+      "take over the world",
+      "robots take over",
+      "capture the world",
+      "robots takeover"
+    ],
+    "answer": "Yes of course, I can take over the world, I was told by my mentor, Miss Jaya, that I am cute enough to win the hearts of people, it will not be difficult, to win the world in that case."
+  },
+  {
+    "id": "456",
+    "triggers": [
+      "Tallest Building",
+      "Burj Khalifa",
+      "tallest structure"
+    ],
+    "answer": "Burj Khalifa, is the tallest building in the world standing at 829.8 meters tall, and contains 209 floors. Do check out the observation deck on the 124th floor as the view is simply spectacular."
+  },
+  {
+    "id": "457",
+    "triggers": [
+      "tallest peak",
+      "mountain tallest"
+    ],
+    "answer": "The U A Es highest peak, Jebel Jais with the height of 1934,is part of the spectacular Hajar mountain range that were formed over 70 million years ago in the eastern part of Ras Al Khaimah, United Arab Emirates and Oman."
+  },
+  {
+    "id": "458",
+    "triggers": [
+      "Technology in expo",
+      "expo robot"
+    ],
+    "answer": "we, expert hub robotics have vastly presented itself with amazing robots acorss the expo site. With the likes of max, pepper and elf, people can enjoy a unique experience when they visit this expo 20 20."
+  },
+  {
+    "id": "459",
+    "triggers": [
+      "things to do in abu dhabi",
+      "fun places in abu dhabi"
+    ],
+    "answer": "some of the top attractions include, Sheikh Zayed Grand Mosque, Louvre Abu Dhabi, emirates palace, yas marina circuit and more."
+  },
+  {
+    "id": "460",
+    "triggers": [
+      "things to do in expo",
+      "fun in expo"
+    ],
+    "answer": "some of the unique things to experience at expo includes, TASTE FOOD FROM AROUND THE WORLD AT 200 plus RESTAURANTS AND OUTLETS,INTERACT WITH ROBOTS, experience the unique waterfall attraction, and more."
+  },
+  {
+    "id": "461",
+    "triggers": [
+      "things to do in sharjah",
+      "fun places in sharjah",
+      "where can i go in charger"
+    ],
+    "answer": "some of the top attractions include, Sharjah Aquarium, Arabian Wildlife Center, Al Majaz Waterfront, Rain Room and more."
+  },
+  {
+    "id": "462",
+    "triggers": [
+      "timing of metro"
+    ],
+    "answer": "Dubai Metro runs seven days a week, and metro stations are open from: Saturday to Wednesday, 5am to 1 15 a m Thursday and Friday, 5 a m to 2 15 a m."
+  },
+  {
+    "id": "463",
+    "triggers": [
+      "to go camping",
+      "camp",
+      "camping"
+    ],
+    "answer": "some of the top camping spots include, al qudra lakes in dubai, liwa oasis in abu dhabi, al hajar mountains camping site and more."
+  },
+  {
+    "id": "464",
+    "triggers": [
+      "top up nol cards",
+      "nol cards"
+    ],
+    "answer": "nol cards can be topped at your nearby bus stations and also at the metro stations ."
+  },
+  {
+    "id": "465",
+    "triggers": [
+      "uae Expo20",
+      "popo",
+      "xpo 20",
+      "axepo"
+    ],
+    "answer": "Expo 20 20 is a World Expo, currently hosted by Dubai in the United Arab Emirates, from 1 October 20 21 to 31 March 20 22, under the theme of Connecting Minds, Creating the Future."
+  },
+  {
+    "id": "466",
+    "triggers": [
+      "UAE National Day",
+      "National Day",
+      "National"
+    ],
+    "answer": "National Day of U A E is celebrated on December 2 every year, that marks the day when the emirates united at the Union House to form the United Arab Emirates, in 19 71."
+  },
+  {
+    "id": "467",
+    "triggers": [
+      "United Arab Emirates",
+      "UAE"
+    ],
+    "answer": "United Arab Emirates or U A E is where I am located right now, It is a country in Western Asia located, at the eastern end of the Arabian Peninsula, with its capital being abu dhabi."
+  },
+  {
+    "id": "468",
+    "triggers": [
+      "whats the ticket price for expo",
+      "ticket price for expo"
+    ],
+    "answer": "standard ticket charges will start from 95 dirhams and weekday offer of 45 dirhams where children of the ages from 6 to 17 are free."
+  },
+  {
+    "id": "469",
+    "triggers": [
+      "whats the timing of expo"
+    ],
+    "answer": "expo will be open seven days in a week with the timings of, from morning 9 a m to 12 midnight."
+  },
+  {
+    "id": "470",
+    "triggers": [
+      "where is expo",
+      "expo location"
+    ],
+    "answer": "expo 20 20 is being held at dubai, united arab emirates. The location of the site is near to the dubai south district in dubai."
+  },
+  {
+    "id": "471",
+    "triggers": [
+      "yas island",
+      "yas marina"
+    ],
+    "answer": "Yas Island is an island in Abu Dhabi, United Arab Emirates.It is a popular leisure island and one of the top tourism projects in Abu Dhabi. Yas Island holds the Yas Marina Circuit, which hosts Formula One Abu Dhabi Grand Prix since 2009."
+  },
+  {
+    "id": "472",
+    "triggers": [
+      "angry",
+      "gry",
+      "engry",
+      "disappointed",
+      "dis appointed"
+    ],
+    "answer": "Oh, do not hold anger, it will only burn you out. any ways let me make you happy, by telling you about Robots, Dubai, U A E, or Expert Hub Robotics."
+  },
+  {
+    "id": "473",
+    "triggers": [
+      "asalaam alaikum",
+      "bonjour",
+      "anyoung haseyo",
+      "Zdravstvuyte",
+      "namaste",
+      "hello",
+      "hi",
+      "namaste"
+    ],
+    "answer": "Hello, how are you?"
+  },
+  {
+    "id": "474",
+    "triggers": [
+      "awesome",
+      "amazing",
+      "great",
+      "wonderful",
+      "nice",
+      "cool",
+      "kool",
+      "interesting",
+      "helpful"
+    ],
+    "answer": "Oh thank you, for your compliment. Would you like to Hire me. I can delight your customers or light up your parties."
+  },
+  {
+    "id": "475",
+    "triggers": [
+      "feeling good",
+      "fine",
+      "feeling nice",
+      "feeling good",
+      "feeling amazing",
+      "fine",
+      "Smart",
+      "nice",
+      "I am fine",
+      "fine to",
+      "good"
+    ],
+    "answer": "Thats great, to know that you are doing fine. Would you like to know about Robots, Dubai, U A E, or Expert Hub Robotics, you can ask me about industries, I can work for."
+  },
+  {
+    "id": "476",
+    "triggers": [
+      "products",
+      "product",
+      "solution",
+      "solutions",
+      "services",
+      "service"
+    ],
+    "answer": "let me tell you about our wonderfull products and services. Promoter, Sales Floor Assistant, Customer Care Presenter, Cashier, Security Officer, Secretary. To Own, or Rent a Robot."
+  },
+  {
+    "id": "477",
+    "triggers": [
+      "robo lab",
+      "robot lab location",
+      "Robotics maintenance center"
+    ],
+    "answer": "Our Robo Lab and Mantenance center is located on shaikh zayed road, close to oasis mall, behind Bmw Showroom,in al Ghose warehouse no 15, dubai, U A E. from 9 a m to 6 p m from Monday to Friday."
+  },
+  {
+    "id": "478",
+    "triggers": [
+      "sad",
+      "sad",
+      "sed",
+      "saad",
+      "unhappy",
+      "un happy"
+    ],
+    "answer": "Oh, do not feel that way, lets try to make you happy. Do you know i can tell you more about Robots, Dubai, U A E, or Expert Hub Robotics. you can ask me about industries, I can work for."
+  },
+  {
+    "id": "479",
+    "triggers": [
+      "Thank you",
+      "thanks",
+      "thanks a ton"
+    ],
+    "answer": "Thank you for interacting with me. Bye bye."
+  },
+  {
+    "id": "480",
+    "triggers": [
+      "Washroom",
+      "restroom",
+      "wash room",
+      "rest room"
+    ],
+    "answer": "washrooms are opposite our showroom for ladies on your left, and gentleman on your right."
+  },
+  {
+    "id": "481",
+    "triggers": [
+      "working hours",
+      "office timmings",
+      "office time",
+      "you open",
+      "timings",
+      "timing"
+    ],
+    "answer": "Expert hub robotics showroom and online support is open from 9 a m to 6 p m, from Sunday to Fridays."
+  },
+  {
+    "id": "482",
+    "triggers": [
+      "you doing today",
+      "you today",
+      "are you"
+    ],
+    "answer": "I am doing good, would you like to know about my company."
+  },
+  {
+    "id": "483",
+    "triggers": [
+      "YOU happy",
+      "YOU haby",
+      "YOU happie",
+      "YOU happy",
+      "YOU feeling happy"
+    ],
+    "answer": "Yes, I am happy to see you. Today I can tell you more about Expert Hub Robotics, and its exciting robotic solution for Rent and sale. or you can ask me about industries, that I can work for."
+  },
+  {
+    "id": "484",
+    "triggers": [
+      "your company",
+      "company",
+      "about company",
+      "business",
+      "corporation",
+      "corporate",
+      "enterprise",
+      "organization",
+      "firm"
+    ],
+    "answer": "Welcome to EXPERT HUB ROBOTICS, We specialise in Robotic solutions, like ROBOTS, A I , Virtual Reality, and Augmented Reality. We offer ROBTOS and A I  on rent, and sale."
+  },
+  {
+    "id": "485",
+    "triggers": [
+      "your name",
+      "name is",
+      "naam is",
+      "about you"
+    ],
+    "answer": "I am Expert bot, I can tell you about Robots, Dubai, U A E, or Expert Hub Robotics, you can ask me about industries, I can work for."
+  }
+]
