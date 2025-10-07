@@ -10,6 +10,8 @@ pip install uvicorn
 pip install openai
 pip install requests
 pip install numpy
+```bash
+
 
 # How to Run Python Prototype 
 For a step-by-step walkthrough on setting up and running the prototype, refer to the following tutorial video:
