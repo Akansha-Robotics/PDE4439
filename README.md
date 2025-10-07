@@ -16,3 +16,8 @@ pip install numpy
 For a step-by-step walkthrough on setting up and running the prototype, refer to the following tutorial video:
 
 https://youtu.be/oc1iypHSY0o
+
+# Demo Video
+Watch the humanoid robot in action running the Python Prototype Version 2 showcasing real-time interaction.
+
+https://youtu.be/chfK0rmftA8
