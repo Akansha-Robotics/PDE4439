@@ -1,4 +1,4 @@
-# PDE 4439 Project Files 
+# PDE 4439 Project 
 
 # PIP Installations Required 
 Before running Python Prototype Version 2, please ensure all required libraries are installed.
