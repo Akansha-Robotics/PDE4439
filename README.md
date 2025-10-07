@@ -10,7 +10,8 @@ pip install uvicorn
 pip install openai
 pip install requests
 pip install numpy
-```bash
+
+---
 
 
 # How to Run Python Prototype 
