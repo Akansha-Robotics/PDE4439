@@ -1,5 +1,3 @@
-# PDE 4439 Project 
-
 # PIP Installations Required 
 Before running Python Prototype Version 2, please ensure all required libraries are installed.
 You can install them by running the following commands in your Visual Studio Terminal:
